@@ -103,98 +103,122 @@ B. Rahmani, K. W. Chung, P. Norouzzadeh, J. Bodurka, B. A. McKinney. "Dynamical 
 <p></p>
 
 <h2>2017</h2>
-Trang T. Le, W. K. Simmons, M. Misaki, B.C. White, J. Savitz, J. Bodurka, and B. A. McKinney. "Differential privacy-based evaporative cooling feature selection and classification with Relief-F and Random Forests," <i>Bioinformatics</i>, Volume 33, Issue 18, 15 September 2017, Pages 2906–2913. <a href="https://academic.oup.com/bioinformatics/article/33/18/2906/3796394/Differential-privacybased-evaporative-cooling?guestAccessKey=b91832c8-6034-46d5-95ce-382fc71c1df0">Open Access</a>.
+Trang T. Le, W. K. Simmons, M. Misaki, B.C. White, J. Savitz, J. Bodurka, and B. A. McKinney. "Differential privacy-based evaporative cooling feature selection and classification with Relief-F and Random Forests," <i>Bioinformatics</i>, Volume 33, Issue 18, 15 September 2017, Pages 2906–2913. <a href="https://academic.oup.com/bioinformatics/article/33/18/2906/3796394/Differential-privacybased-evaporative-cooling?guestAccessKey=b91832c8-6034-46d5-95ce-382fc71c1df0">Open Access</a>.  
+<p></p>
+Suzuki H, Savitz J, Teague K, Gandhapudi SK, Tan C, Misaki M, McKinney BA, Irwin MR, Drevets WC, Bodurka J. "Altered populations of natural killer cells, cytotoxic T lymphocytes, and regulatory T cells in major depressive disorder: Association with sleep disturbance," <i>Brain, Behavior and Immunity</i>. 2017 Jun 20. pii: S0889-1591(17)30200-3. doi:10.1016/j.bbi.2017.06.011. <a>PubMed</a>.   
+<p></p>
 
-Suzuki H, Savitz J, Teague K, Gandhapudi SK, Tan C, Misaki M, McKinney BA, Irwin MR, Drevets WC, Bodurka J. "Altered populations of natural killer cells, cytotoxic T lymphocytes, and regulatory T cells in major depressive disorder: Association with sleep disturbance," <i>Brain, Behavior and Immunity</i>. 2017 Jun 20. pii: S0889-1591(17)30200-3. doi:10.1016/j.bbi.2017.06.011. <a>PubMed</a>.
 <h2>2016</h2>
-B. Rahmani, M. Zimmermann, D. Grill, R. Kennedy, A Oberg, B. C. White, G. A. Poland, B. A. McKinney, "Recursive Indirect-Paths Modularity (RIP-M) for Detecting Community Structure in RNA-Seq Co-Expression Networks," <i>Frontiers in Genetics</i>, <strong>7</strong>:80. doi: 10.3389/fgene.2016.00080. <a href="http://journal.frontiersin.org/article/10.3389/fgene.2016.00080/abstract">2016</a>.
+B. Rahmani, M. Zimmermann, D. Grill, R. Kennedy, A Oberg, B. C. White, G. A. Poland, B. A. McKinney, "Recursive Indirect-Paths Modularity (RIP-M) for Detecting Community Structure in RNA-Seq Co-Expression Networks," <i>Frontiers in Genetics</i>, <strong>7</strong>:80. doi: 10.3389/fgene.2016.00080. <a href="http://journal.frontiersin.org/article/10.3389/fgene.2016.00080/abstract">2016</a>.  
+<p></p>
+C. A. Lareau, B.C. White, A.L. Oberg, R.B. Kennedy, G.A. Poland, B.A. McKinney, "An interaction quantitative trait loci (iQTL) tool implicates epistatic functional variants in an apoptosis pathway in smallpox vaccine eQTL data," <i>Genes and Immunity (Nature Publishing)</i>. <strong>17</strong>:244–250; doi:10.1038/gene.2016.15. <a href="http://www.nature.com/gene/journal/vaop/ncurrent/full/gene201615a.html">2016</a>.  
+<p></p>
+B. A. McKinney, C. A. Lareau, A. L. Oberg, R. B. Kennedy, I. G. Ovsyannikova, G. A. Poland, "The Integration of epistasis network and functional interactions in a GWAS implicates RXR pathway genes in the immune response to smallpox vaccine," <i>PLoS ONE</i>. <strong>11</strong>(8): e0158016. doi:10.1371/journal.pone.0158016. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4981436/">2016</a>.  
+<p></p>
 
-C. A. Lareau, B.C. White, A.L. Oberg, R.B. Kennedy, G.A. Poland, B.A. McKinney, "An interaction quantitative trait loci (iQTL) tool implicates epistatic functional variants in an apoptosis pathway in smallpox vaccine eQTL data," <i>Genes and Immunity (Nature Publishing)</i>. <strong>17</strong>:244–250; doi:10.1038/gene.2016.15. <a href="http://www.nature.com/gene/journal/vaop/ncurrent/full/gene201615a.html">2016</a>.
-
-B. A. McKinney, C. A. Lareau, A. L. Oberg, R. B. Kennedy, I. G. Ovsyannikova, G. A. Poland, "The Integration of epistasis network and functional interactions in a GWAS implicates RXR pathway genes in the immune response to smallpox vaccine," <i>PLoS ONE</i>. <strong>11</strong>(8): e0158016. doi:10.1371/journal.pone.0158016. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4981436/">2016</a>.
 <h2>2015</h2>
-C. A. Lareau, B. C. White, Courtney G. Montgomery and B. A. McKinney, "dcVar: A Method for Identifying Common Variants that Modulate Differential Correlation Structures in Gene Expression Data," <em>Frontiers in Genetics</em>. <b>6</b>:312. doi: 10.3389/fgene.2015.00312. <a href="http://journal.frontiersin.org/article/10.3389/fgene.2015.00312/abstract">2015</a>.
+C. A. Lareau, B. C. White, Courtney G. Montgomery and B. A. McKinney, "dcVar: A Method for Identifying Common Variants that Modulate Differential Correlation Structures in Gene Expression Data," <em>Frontiers in Genetics</em>. <b>6</b>:312. doi: 10.3389/fgene.2015.00312. <a href="http://journal.frontiersin.org/article/10.3389/fgene.2015.00312/abstract">2015</a>.  
+<p></p>
+C. Lareau, B.C. White, A.L. Oberg, B.A. McKinney, “Differential co-expression network centrality and machine learning feature selection for identifying susceptibility hubs in networks with scale-free structure,” <i>BMC Biodata Mining</i> <strong>8</strong>:5. 2015. <a href="http://www.biodatamining.org/content/8/1/5">biodatamining</a>.  
+<p></p>
+C. Lareau, B.A. McKinney, “Network Theory for Data-Driven Epistasis Networks,” in Epistasis: Method and Protocols, Methods in Molecular Biology, Volume: <strong>1253</strong>, 285-300, 2015. <a href="http://www.springerprotocols.com/Abstract/doi/10.1007/978-1-4939-2155-3_15">Springer</a>.  
+<p></p>
+A.L. Oberg, B.A. McKinney, D.J. Schaid, V.S. Pankratz, R.B. Kennedy, G.A. Poland “Lessons learned in the analysis of high-dimensional data in vaccinomics,” <i>Vaccine</i>. Volume <strong>33</strong>, Issue 40, Pages 5262-5270. <a href="http://www.sciencedirect.com/science/article/pii/S0264410X15005745" target="_blank" rel="noopener noreferrer">Science Direct</a>.  
+<p></p>
 
-C. Lareau, B.C. White, A.L. Oberg, B.A. McKinney, “Differential co-expression network centrality and machine learning feature selection for identifying susceptibility hubs in networks with scale-free structure,” <i>BMC Biodata Mining</i> <strong>8</strong>:5. 2015. <a href="http://www.biodatamining.org/content/8/1/5">biodatamining</a>.
-
-C. Lareau, B.A. McKinney, “Network Theory for Data-Driven Epistasis Networks,” in Epistasis: Method and Protocols, Methods in Molecular Biology, Volume: <strong>1253</strong>, 285-300, 2015. <a href="http://www.springerprotocols.com/Abstract/doi/10.1007/978-1-4939-2155-3_15">Springer</a>.
-
-A.L. Oberg, B.A. McKinney, D.J. Schaid, V.S. Pankratz, R.B. Kennedy, G.A. Poland “Lessons learned in the analysis of high-dimensional data in vaccinomics,” <i>Vaccine</i>. Volume <strong>33</strong>, Issue 40, Pages 5262-5270. <a href="http://www.sciencedirect.com/science/article/pii/S0264410X15005745" target="_blank" rel="noopener noreferrer">Science Direct</a>.
 <h2>2014</h2>
-B. Briney, J. Willis, J. Finn, B.A. McKinney, J.E. Crowe, Jr. “Tissue-specific expressed antibody variable gene repertoires,” <i>PLoS ONE</i> 9(6):e100839. doi:10.1371/journal.pone.0100839. <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0100839">2014</a>.
+B. Briney, J. Willis, J. Finn, B.A. McKinney, J.E. Crowe, Jr. “Tissue-specific expressed antibody variable gene repertoires,” <i>PLoS ONE</i> 9(6):e100839. doi:10.1371/journal.pone.0100839. <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0100839">2014</a>.  
+<p></p>
+
 <h2>2013</h2>
-B.A. McKinney, B.C. White, D.E. Grill, P.W. Li, R.B. Kennedy, G.A. Poland, A.L. Oberg. “ReliefSeq: A gene-wise adaptive-k nearest-neighbor feature selection tool for finding gene-gene interactions and main effects in mRNA-Seq gene expression data,” <i>PLoS ONE</i> 8(12):e81527. 2013. <a href="http://dx.plos.org/10.1371/journal.pone.0081527">doi:10.1371/journal.pone.0081527</a>.
-
-N.A. Davis, C.A. Lareau, B.C. White, A. Pandey, G. Wiley, C.G. Montgomery, P.M. Gaffney, B.A. McKinney. “Encore: Genetic association interaction network centrality pipeline and application to SLE exome data,” <i>Genetic Epidemiology</i>. doi: 10.1002/gepi.21739. 2013. PMID: 23740754. (<a href="http://onlinelibrary.wiley.com/doi/10.1002/gepi.21739/full">text online</a>)
-
-G. Poland, R. Kennedy, B.A. McKinney, I. Ovsyannikova, N. Lambert, R. Jacobson, A. Oberg. “Vaccinomics, Adversomics, and the Immune Response Network Theory: Individualized Vaccinology in the 21st Century,” <i>Seminars in Immunology</i>. 2013. <a href="http://dx.doi.org/10.1016/j.smim.2013.04.007">http://dx.doi.org/10.1016/j.smim.2013.04.007</a>
-
-C. Carley, L. Sells, B.A. McKinney, Zhao, Chao, H. Neeman. “Using a shared, remote cluster for teaching HPC,” <i>Cluster Computing (CLUSTER), 2013 IEEE International Conference</i> 1(6):23-27. 2013.
+B.A. McKinney, B.C. White, D.E. Grill, P.W. Li, R.B. Kennedy, G.A. Poland, A.L. Oberg. “ReliefSeq: A gene-wise adaptive-k nearest-neighbor feature selection tool for finding gene-gene interactions and main effects in mRNA-Seq gene expression data,” <i>PLoS ONE</i> 8(12):e81527. 2013. <a href="http://dx.plos.org/10.1371/journal.pone.0081527">doi:10.1371/journal.pone.0081527</a>.  
+<p></p>
+N.A. Davis, C.A. Lareau, B.C. White, A. Pandey, G. Wiley, C.G. Montgomery, P.M. Gaffney, B.A. McKinney. “Encore: Genetic association interaction network centrality pipeline and application to SLE exome data,” <i>Genetic Epidemiology</i>. doi: 10.1002/gepi.21739. 2013. PMID: 23740754. (<a href="http://onlinelibrary.wiley.com/doi/10.1002/gepi.21739/full">text online</a>)  
+<p></p>
+G. Poland, R. Kennedy, B.A. McKinney, I. Ovsyannikova, N. Lambert, R. Jacobson, A. Oberg. “Vaccinomics, Adversomics, and the Immune Response Network Theory: Individualized Vaccinology in the 21st Century,” <i>Seminars in Immunology</i>. 2013. <a href="http://dx.doi.org/10.1016/j.smim.2013.04.007">http://dx.doi.org/10.1016/j.smim.2013.04.007</a>  
+<p></p>
+C. Carley, L. Sells, B.A. McKinney, Zhao, Chao, H. Neeman. “Using a shared, remote cluster for teaching HPC,” <i>Cluster Computing (CLUSTER), 2013 IEEE International Conference</i> 1(6):23-27. 2013.  
+<p></p>
 <h2>2012</h2>
-B.A. McKinney and N.M. Pajewski. “Six degrees of epistasis: Statistical network models of GWAS,” <i>Frontiers in Statistical Genetics and Methodology</i>. 2 (109). doi: 10.3389/fgene.2011.00109; January 2012. (<a href="http://www.frontiersin.org/Statistical_Genetics_and_Methodology/10.3389/fgene.2011.00109/abstract#">open access</a>)
+B.A. McKinney and N.M. Pajewski. “Six degrees of epistasis: Statistical network models of GWAS,” <i>Frontiers in Statistical Genetics and Methodology</i>. 2 (109). doi: 10.3389/fgene.2011.00109; January 2012. (<a href="http://www.frontiersin.org/Statistical_Genetics_and_Methodology/10.3389/fgene.2011.00109/abstract#">open access</a>)  
+<p></p>
+A. Pandey, N. A. Davis, B. C. White, N. M. Pajewski, J. Savitz, W. C. Drevets, B. A. McKinney. “Epistasis network centrality analysis yields pathway replication across two GWAS cohorts for bipolar disorder,” <i>Translational Psychiatry</i>. 2, e154; doi:10.1038/tp.2012.80 2012. (<a href="http://www.nature.com/tp/journal/v2/n8/full/tp201280a.html">open access</a>)  
+<p></p>
+Savitz J, Frank MB, Victor T, Bebak M, Marino JH, Bellgowan PS, McKinney BA, Bodurka J, Kent Teague T, Drevets WC. “Inflammation and neurological disease-related genes are differentially expressed in depressed patients with mood disorders and correlate with morphometric and functional imaging abnormalities,” <i>Brain Behav Immun.</i> 2012 Oct 12. doi:pii: S0889-1591(12)00469-2. 10.1016/j.bbi.2012.10.007; Oct 12, 2012. PMID: 23064081  
+<p></p>
+P. Crooke, J. Hotchkiss, Y. Lenbury, and B. A. McKinney. “Mathematical Modeling of Patient Care,” <i>Computational and Mathematical Methods in Medicine</i>. Article ID 563287, 2 pages doi:10.1155/2012/563287; 2012 (<a href="http://www.hindawi.com/journals/cmmm/2012/563287/">open access</a>)  
+<p></p>
+N. M. Pajewski, S. Shrestha, C.P. Quinn, S.D. Parker, H. Weiner, B. Aissani, B.A. McKinney, G.A. Poland, J.C. Edberg, R.P. Kimberly, J. Tang, and R.A. Kaslow. “A Genome-wide Association Study of Host Genetic Determinants of the Antibody Response to Anthrax Vaccine Adsorbed,” <i>Vaccine</i>. 30(32):4778-84; 2012. (<a href="http://www.sciencedirect.com/science/article/pii/S0264410X12007360">open access</a>)  
+<p></p>
+B. S. Briney, Willis J. R., McKinney B. A., Crowe J. E. Jr. “High-throughput antibody sequencing reveals genetic evidence of global regulation of the naïve and memory repertoires that extends across individuals,” <i>Genes and Immunity (Nature Publishing)</i>. doi:10.1038/gene.2012.20; 2012. (<a href="http://www.nature.com/gene/journal/vaop/ncurrent/full/gene201220a.html"> abstract </a>)  
+<p></p>
+Louie RJ, Guo J, Rodgers JW, White R, Shah N, Pagant S, Kim P, Livstone M, Dolinski K, McKinney BA, Hong J, Sorscher EJ, Bryan J, Miller EA, Hartman JL 4th. "A yeast phenomic model for the gene interaction network modulating CFTR-DeltaF508 protein biogenesis," <i>Genome Med.</i> 2012 Dec 27;4(12):103.  
+<p></p>
 
-A. Pandey, N. A. Davis, B. C. White, N. M. Pajewski, J. Savitz, W. C. Drevets, B. A. McKinney. “Epistasis network centrality analysis yields pathway replication across two GWAS cohorts for bipolar disorder,” <i>Translational Psychiatry</i>. 2, e154; doi:10.1038/tp.2012.80 2012. (<a href="http://www.nature.com/tp/journal/v2/n8/full/tp201280a.html">open access</a>)
-
-Savitz J, Frank MB, Victor T, Bebak M, Marino JH, Bellgowan PS, McKinney BA, Bodurka J, Kent Teague T, Drevets WC. “Inflammation and neurological disease-related genes are differentially expressed in depressed patients with mood disorders and correlate with morphometric and functional imaging abnormalities,” <i>Brain Behav Immun.</i> 2012 Oct 12. doi:pii: S0889-1591(12)00469-2. 10.1016/j.bbi.2012.10.007; Oct 12, 2012. PMID: 23064081
-
-P. Crooke, J. Hotchkiss, Y. Lenbury, and B. A. McKinney. “Mathematical Modeling of Patient Care,” <i>Computational and Mathematical Methods in Medicine</i>. Article ID 563287, 2 pages doi:10.1155/2012/563287; 2012 (<a href="http://www.hindawi.com/journals/cmmm/2012/563287/">open access</a>)
-
-N. M. Pajewski, S. Shrestha, C.P. Quinn, S.D. Parker, H. Weiner, B. Aissani, B.A. McKinney, G.A. Poland, J.C. Edberg, R.P. Kimberly, J. Tang, and R.A. Kaslow. “A Genome-wide Association Study of Host Genetic Determinants of the Antibody Response to Anthrax Vaccine Adsorbed,” <i>Vaccine</i>. 30(32):4778-84; 2012. (<a href="http://www.sciencedirect.com/science/article/pii/S0264410X12007360">open access</a>)
-
-B. S. Briney, Willis J. R., McKinney B. A., Crowe J. E. Jr. “High-throughput antibody sequencing reveals genetic evidence of global regulation of the naïve and memory repertoires that extends across individuals,” <i>Genes and Immunity (Nature Publishing)</i>. doi:10.1038/gene.2012.20; 2012. (<a href="http://www.nature.com/gene/journal/vaop/ncurrent/full/gene201220a.html"> abstract </a>)
-
-Louie RJ, Guo J, Rodgers JW, White R, Shah N, Pagant S, Kim P, Livstone M, Dolinski K, McKinney BA, Hong J, Sorscher EJ, Bryan J, Miller EA, Hartman JL 4th. "A yeast phenomic model for the gene interaction network modulating CFTR-DeltaF508 protein biogenesis," <i>Genome Med.</i> 2012 Dec 27;4(12):103.
 <h2>2011</h2>
-N. A. Davis, Ahwan Pandey, and B. A. McKinney. "Real-world comparison of CPU and GPU implementations of SNPrank: a network analysis tool for genome-wide association studies," <i>Bioinformatics</i>. 27 (2): 284-285; 2011 (<a href="http://insilico.utulsa.edu/pubs/GPU-Bioinformatics-2010.pdf">pdf</a>)
+N. A. Davis, Ahwan Pandey, and B. A. McKinney. "Real-world comparison of CPU and GPU implementations of SNPrank: a network analysis tool for genome-wide association studies," <i>Bioinformatics</i>. 27 (2): 284-285; 2011 (<a href="http://insilico.utulsa.edu/pubs/GPU-Bioinformatics-2010.pdf">pdf</a>)  
+<p></p>
+N. M. Pajewski, S.. D. Parker, G. A. Poland, I. G. Ovsyannikova, W. Song, K. Zhang, B. A. McKinney, V. S. Pankratz, J. C. Edberg, R. P. Kimberly, R. M. Jacobson, J. Tang, and R. A. Kaslow, "The Role of HLA DR-DQ Haplotypes in Variable Antibody Response to Anthrax Vaccine Adsorbed," <i>Genes and Immunity (Nature Publishing)</i>. (3 March 2011) | doi:10.1038/gene.2011.15; 2011.  
+<p></p>
+M. T. Rock, B. A. McKinney, S. M. Yoder, C. E. Prudom, D. W. Wright, J. E. Crowe, Jr. "Identification of potential human respiratory syncytial virus and metapneumovirus T cell epitopes using computational prediction and MHC binding assays," <i>Journal of Immunological Methods</i>; 2011. (<a href="http://www.ncbi.nlm.nih.gov/pubmed/21854782">Pubmed</a>).  
+<p></p>
 
-N. M. Pajewski, S.. D. Parker, G. A. Poland, I. G. Ovsyannikova, W. Song, K. Zhang, B. A. McKinney, V. S. Pankratz, J. C. Edberg, R. P. Kimberly, R. M. Jacobson, J. Tang, and R. A. Kaslow, "The Role of HLA DR-DQ Haplotypes in Variable Antibody Response to Anthrax Vaccine Adsorbed," <i>Genes and Immunity (Nature Publishing)</i>. (3 March 2011) | doi:10.1038/gene.2011.15; 2011.
-
-M. T. Rock, B. A. McKinney, S. M. Yoder, C. E. Prudom, D. W. Wright, J. E. Crowe, Jr. "Identification of potential human respiratory syncytial virus and metapneumovirus T cell epitopes using computational prediction and MHC binding assays," <i>Journal of Immunological Methods</i>; 2011. (<a href="http://www.ncbi.nlm.nih.gov/pubmed/21854782">Pubmed</a>).
 <h2>2010</h2>
-N. A. Davis, J. E. Crowe, Jr, N. M. Pajewski, B. A. McKinney, "Surfing a genetic association interaction network to identify modulators of antibody response to smallpox vaccine," <i>Genes and Immunity (Nature Publishing)</i>. doi: 10.1038/gene.2010.3; 2010. (<a href="http://www.nature.com/gene/journal/vaop/ncurrent/full/gene201037a.html">open access</a>)
+N. A. Davis, J. E. Crowe, Jr, N. M. Pajewski, B. A. McKinney, "Surfing a genetic association interaction network to identify modulators of antibody response to smallpox vaccine," <i>Genes and Immunity (Nature Publishing)</i>. doi: 10.1038/gene.2010.3; 2010. (<a href="http://www.nature.com/gene/journal/vaop/ncurrent/full/gene201037a.html">open access</a>)  
+<p></p>
+J. Guo, D. Tian, B.A. McKinney, and J.L. Hartman, "Recursive expectation-maximization clustering (REMc): A method for identifying buffering mechanisms composed of phenomic modules," <i>Chaos: An Interdisciplinary Journal of Nonlinear Science</i>. 5(2):026103;2010. (<a href="http://chaos.aip.org/chaoeh/v20/i2/p026103_s1">abstract</a>). Selected for July 1, 2010 issue of <a href="http://www.vjbio.org/">Virtual Journal of Biological Physics Research</a>  
+<p></p>
 
-J. Guo, D. Tian, B.A. McKinney, and J.L. Hartman, "Recursive expectation-maximization clustering (REMc): A method for identifying buffering mechanisms composed of phenomic modules," <i>Chaos: An Interdisciplinary Journal of Nonlinear Science</i>. 5(2):026103;2010. (<a href="http://chaos.aip.org/chaoeh/v20/i2/p026103_s1">abstract</a>). Selected for July 1, 2010 issue of <a href="http://www.vjbio.org/">Virtual Journal of Biological Physics Research</a>
 <h2>2009</h2>
-B.A. McKinney, J.E. Crowe, Jr., J. Guo, and D. Tian, "Capturing the spectrum of interaction effects in genetic association studies by simulated evaporative cooling network analysis," <i>PLoS Genetics</i>. 5(3): e1000432. doi:10.1371/journal.pgen.1000432; 2009. (<a href="http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1000432">open access</a>)
+B.A. McKinney, J.E. Crowe, Jr., J. Guo, and D. Tian, "Capturing the spectrum of interaction effects in genetic association studies by simulated evaporative cooling network analysis," <i>PLoS Genetics</i>. 5(3): e1000432. doi:10.1371/journal.pgen.1000432; 2009. (<a href="http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1000432">open access</a>)  
+<p></p>
+B.A. McKinney, "New Informatics approaches for identifying biologic relationships in time series data," <i>Wiley Interdisciplinary Reviews: Nanomedicine and Nanobiotechnology</i>. 1:60-68;2009. (<a href="http://onlinelibrary.wiley.com/doi/10.1002/wnan.12/abstract">online</a>)(<a href="http://insilico.utulsa.edu/pubs/McKinney2009WIRE.pdf">pdf</a>)  
+<p></p>
+D. M. Reif, A.A. Motsinger, B. A. McKinney, J. E. Crowe, Jr., J.H. Moore, "Integrated analysis of genetic and proteomic data identifies biomarkers associated with adverse events following smallpox vaccination," <i>Genes and Immunity</i>. 10:112-119; 2009. (<a href="http://www.nature.com/gene/journal/vaop/ncurrent/abs/gene200880a.html">abstract</a>)  
+<p></p>
+Peter F. Wright, Anna P. Durbin, Stephen S. Whitehead, Mine R. Ikizler, Susan Henderson, Joseph E. Blaney, Bhavin Thumar, Sharon Ankrah, Sapna Mehta, Michael T. Rock, Sandra M. Yoder, B. A. McKinney, Brian R. Murphy, and Alexander C. Schmidt, "The dengue virus type 4 vaccine candidate rDEN430-4995 is highly attenuated, safe, and immunogenic in healthy adult volunteers," <i>Am. J. Trop. Med. Hyg.</i> doi:10.4269/ajtmh.2009.09-0131; 2009.  
+<p></p>
 
-B.A. McKinney, "New Informatics approaches for identifying biologic relationships in time series data," <i>Wiley Interdisciplinary Reviews: Nanomedicine and Nanobiotechnology</i>. 1:60-68;2009. (<a href="http://onlinelibrary.wiley.com/doi/10.1002/wnan.12/abstract">online</a>)(<a href="http://insilico.utulsa.edu/pubs/McKinney2009WIRE.pdf">pdf</a>)
-
-D. M. Reif, A.A. Motsinger, B. A. McKinney, J. E. Crowe, Jr., J.H. Moore, "Integrated analysis of genetic and proteomic data identifies biomarkers associated with adverse events following smallpox vaccination," <i>Genes and Immunity</i>. 10:112-119; 2009. (<a href="http://www.nature.com/gene/journal/vaop/ncurrent/abs/gene200880a.html">abstract</a>)
-
-Peter F. Wright, Anna P. Durbin, Stephen S. Whitehead, Mine R. Ikizler, Susan Henderson, Joseph E. Blaney, Bhavin Thumar, Sharon Ankrah, Sapna Mehta, Michael T. Rock, Sandra M. Yoder, B. A. McKinney, Brian R. Murphy, and Alexander C. Schmidt, "The dengue virus type 4 vaccine candidate rDEN430-4995 is highly attenuated, safe, and immunogenic in healthy adult volunteers," <i>Am. J. Trop. Med. Hyg.</i> doi:10.4269/ajtmh.2009.09-0131; 2009.
 <h2>2008</h2>
-B.A. McKinney and D. Tian, "Grammatical Immune System Evolution for Reverse Engineering Nonlinear Dynamic Bayesian Models," <i>Cancer Informatics</i>. 6:433-447; 2008. (<a href="http://la-press.com/article.php?article_id=983">open access</a>)
+B.A. McKinney and D. Tian, "Grammatical Immune System Evolution for Reverse Engineering Nonlinear Dynamic Bayesian Models," <i>Cancer Informatics</i>. 6:433-447; 2008. (<a href="http://la-press.com/article.php?article_id=983">open access</a>)  
+<p></p>
+D.M. Reif, B.A. McKinney, A.A. Motsinger, S.J. Chanock, K.M. Edwards, M.T. Rock, J.H. Moore, and J.E. Crowe, Jr., "Genetic Basis for Adverse Events Following Smallpox Vaccination," <i>Journal of Infectious Diseases</i>. 198:16-22; 2008. (<a href="http://insilico.utulsa.edu/pubs/Reif_JID.pdf">pdf</a>)  
+<p></p>
+F. Bibollet-Ruche, B.A. McKinney, F.H. Wagner, A. Duverger, A.A. Ansari, O. Kutsch "Antibody-mediated activation of chimpanzee T cells via the TCR/CD3 pathway is a function of the anti-CD3 antibody isotype," <i>Journal of Virology</i>, 82:10271-10278; 2008. (<a href="http://jvi.asm.org/cgi/content/abstract/JVI.01319-08v1">abstract</a>)  
+<p></p>
+S. Faley, K. Seale, J. Hughey, D. Schaffer, B. A. McKinney, F. Baudenbacher, and J. P. Wikswo, "Microfluidic platform for real-time signaling analysis of multiple single T cells in parallel." <i>Lab Chip</i>. 8:1700-1712; 2008. (<a href="http://www.rsc.org/Publishing/Journals/LC/article.asp?doi=b719799c">abstract</a>)  
+<p></p>
+N. Kallewaard, B.A. McKinney, Y. Gu, A. Chen, B. V. V. Prasad, and J.E. Crowe, Jr., "Functional maturation of the human antibody response to rotavirus," <i>The Journal of Immunology</i>. 180:3980-3989; 2008. (<a href="http://insilico.utulsa.edu/pubs/Kallewaard-etal.pdf">pdf</a>)  
+<p></p>
+J. Xie, P.S. Crooke, B.A. McKinney, J. Soltman, and S.J. Brandt, "A computational model of quantitative chromatin immunoprecipitation (ChIP) analysis," <i>Cancer Informatics</i>. 4:137-145; 2008. (<a href="http://insilico.utulsa.edu/pubs/Brandt-etal.pdf">pdf</a>)  
+<p></p>
+W.S. Bush, T.L. Edwards, S.M. Dudek, B.A. McKinney, and M.D. Ritchie, "Alternative Contingency Table Measures Improve the Power and Detection of Multifactor Dimensionality Reduction," <i>BMC Bioinformatics</i>. 9:238; 2008. (<a href="http://www.biomedcentral.com/1471-2105/9/238">open access</a>)  
+<p></p>
 
-D.M. Reif, B.A. McKinney, A.A. Motsinger, S.J. Chanock, K.M. Edwards, M.T. Rock, J.H. Moore, and J.E. Crowe, Jr., "Genetic Basis for Adverse Events Following Smallpox Vaccination," <i>Journal of Infectious Diseases</i>. 198:16-22; 2008. (<a href="http://insilico.utulsa.edu/pubs/Reif_JID.pdf">pdf</a>)
-
-F. Bibollet-Ruche, B.A. McKinney, F.H. Wagner, A. Duverger, A.A. Ansari, O. Kutsch "Antibody-mediated activation of chimpanzee T cells via the TCR/CD3 pathway is a function of the anti-CD3 antibody isotype," <i>Journal of Virology</i>, 82:10271-10278; 2008. (<a href="http://jvi.asm.org/cgi/content/abstract/JVI.01319-08v1">abstract</a>)
-
-S. Faley, K. Seale, J. Hughey, D. Schaffer, B. A. McKinney, F. Baudenbacher, and J. P. Wikswo, "Microfluidic platform for real-time signaling analysis of multiple single T cells in parallel." <i>Lab Chip</i>. 8:1700-1712; 2008. (<a href="http://www.rsc.org/Publishing/Journals/LC/article.asp?doi=b719799c">abstract</a>)
-
-N. Kallewaard, B.A. McKinney, Y. Gu, A. Chen, B. V. V. Prasad, and J.E. Crowe, Jr., "Functional maturation of the human antibody response to rotavirus," <i>The Journal of Immunology</i>. 180:3980-3989; 2008. (<a href="http://insilico.utulsa.edu/pubs/Kallewaard-etal.pdf">pdf</a>)
-
-J. Xie, P.S. Crooke, B.A. McKinney, J. Soltman, and S.J. Brandt, "A computational model of quantitative chromatin immunoprecipitation (ChIP) analysis," <i>Cancer Informatics</i>. 4:137-145; 2008. (<a href="http://insilico.utulsa.edu/pubs/Brandt-etal.pdf">pdf</a>)
-
-W.S. Bush, T.L. Edwards, S.M. Dudek, B.A. McKinney, and M.D. Ritchie, "Alternative Contingency Table Measures Improve the Power and Detection of Multifactor Dimensionality Reduction," <i>BMC Bioinformatics</i>. 9:238; 2008. (<a href="http://www.biomedcentral.com/1471-2105/9/238">open access</a>)
 <h2>2007</h2>
-B.A. McKinney, D. M. Reif, B. C. White, J. E. Crowe Jr., J. H. Moore. "Evaporative cooling feature selection for genotypic data involving interactions," <i>Bioinformatics</i>. 23:2113-2120; 2007. (<a href="http://insilico.utulsa.edu/pubs/Bioinformatics2007.pdf">pdf</a>)
+B.A. McKinney, D. M. Reif, B. C. White, J. E. Crowe Jr., J. H. Moore. "Evaporative cooling feature selection for genotypic data involving interactions," <i>Bioinformatics</i>. 23:2113-2120; 2007. (<a href="http://insilico.utulsa.edu/pubs/Bioinformatics2007.pdf">pdf</a>)  
+<p></p>
+B.A. McKinney, N. Kallewaard, J.E. Crowe, Jr., and J. Meiler, "Using the natural evolution of a rotavirus-specific human monoclonal antibody to predict the complex topography of a viral antigenic site," <i>Immunome Research</i>. 3:8; 2007. (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2042970/">Pubmed</a>)  
+<p></p>
 
-B.A. McKinney, N. Kallewaard, J.E. Crowe, Jr., and J. Meiler, "Using the natural evolution of a rotavirus-specific human monoclonal antibody to predict the complex topography of a viral antigenic site," <i>Immunome Research</i>. 3:8; 2007. (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2042970/">Pubmed</a>)
 <h2>2006</h2>
-B.A. McKinney, J.E. Crowe, H.U. Voss, P.S. Crooke, N.L. Barney, and J.H. Moore, "Hybrid Grammar-based Approach to Nonlinear Dynamical System Identification from Biological Time Series," <i>Physical Review E, Statistical, Nonlinear, and Soft Matter Physics</i> 73, 021912; 2006. (<a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;uid=16605367&amp;cmd=showdetailview&amp;indexed=google">pubmed</a>)
+B.A. McKinney, J.E. Crowe, H.U. Voss, P.S. Crooke, N.L. Barney, and J.H. Moore, "Hybrid Grammar-based Approach to Nonlinear Dynamical System Identification from Biological Time Series," <i>Physical Review E, Statistical, Nonlinear, and Soft Matter Physics</i> 73, 021912; 2006. (<a href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&amp;uid=16605367&amp;cmd=showdetailview&amp;indexed=google">pubmed</a>)  
+<p></p>
+B.A. McKinney, D.M. Reif, M.T. Rock, K. M. Edwards, S. F. Kingsmore, J.H. Moore, and J.E. Crowe, "Cytokine expression patterns associated with systemic adverse events following smallpox immunization," <i>Journal of Infectious Diseases</i>. 194(4): 36092; 2006. (<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&amp;pubmedid=16845627">free pubmed central</a>)  
+<p></p>
+B.A. McKinney, D.M. Reif, M.D. Ritchie and J.H. Moore, "Machine learning for detecting gene-gene interactions," <i>Applied Bioinformatics</i>, 5(2):77-88; 2006. (<a href="http://insilico.utulsa.edu/pubs/McKinney-GxG-machine-learning-Applied-Bioinformatics-FINAL.pdf">pdf</a>) (<a href="http://www.pubmedcentral.gov/articlerender.fcgi?artid=3244050">free pubmed central</a>)  
+<p></p>
+D. M. Reif, A. A. Motsinger, B.A. McKinney, and J. H. Moore, "Feature selection using a random forest classifier for the integrated analysis of multiple data types," <i>Proceedings of the IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology</i>. pp. 171-178; 2006. (<a href="http://insilico.utulsa.edu/pubs/RF-CombinedSims_IEEE-CIBCB-2006_paper1117.pdf">pdf</a>)  
+<p></p>
 
-B.A. McKinney, D.M. Reif, M.T. Rock, K. M. Edwards, S. F. Kingsmore, J.H. Moore, and J.E. Crowe, "Cytokine expression patterns associated with systemic adverse events following smallpox immunization," <i>Journal of Infectious Diseases</i>. 194(4): 36092; 2006. (<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&amp;pubmedid=16845627">free pubmed central</a>)
-
-B.A. McKinney, D.M. Reif, M.D. Ritchie and J.H. Moore, "Machine learning for detecting gene-gene interactions," <i>Applied Bioinformatics</i>, 5(2):77-88; 2006. (<a href="http://insilico.utulsa.edu/pubs/McKinney-GxG-machine-learning-Applied-Bioinformatics-FINAL.pdf">pdf</a>) (<a href="http://www.pubmedcentral.gov/articlerender.fcgi?artid=3244050">free pubmed central</a>)
-
-D. M. Reif, A. A. Motsinger, B.A. McKinney, and J. H. Moore, "Feature selection using a random forest classifier for the integrated analysis of multiple data types," <i>Proceedings of the IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology</i>. pp. 171-178; 2006. (<a href="http://insilico.utulsa.edu/pubs/RF-CombinedSims_IEEE-CIBCB-2006_paper1117.pdf">pdf</a>)
 <h2>2004-1999 (Ph.D. related publications)</h2>
-B.A. McKinney, M. Dunn, D.K. Watson, and J. G. Loeser, "N identical particles under quantum confinement: a many-body dimensional perturbation theory approach," <i>Annals of Physics</i> 310, 56; 2004.
-
-B. A. McKinney, M. Dunn, and D.K. Watson, "Beyond-mean-field results for atomic Bose- Einstein condensates at interaction strengths near Feshbach resonances: A many-body dimensional perturbation theory calculation," <i>Phys. Rev. A</i> 69, 053611; 2004. (<a href="http://www.sciencedirect.com/science/article/B6WB1-4B0PR02-1/2/5def0a5e989c457c78ede4b366d55acb">link</a>)
-
-B.A. McKinney and D.K. Watson, "Bose-Einstein condensation in variable dimensionality," <i>Phys. Rev. A</i> 65, 33604; 2002.
-
-B.A. McKinney, D.K. Watson, "Semiclassical dimensional perturbation theory for two electrons in a D-dimensional quantum dot," <i>Phys. Rev. B</i> 61, 4958; 2000.
-
+B.A. McKinney, M. Dunn, D.K. Watson, and J. G. Loeser, "N identical particles under quantum confinement: a many-body dimensional perturbation theory approach," <i>Annals of Physics</i> 310, 56; 2004.  
+<p></p>
+B. A. McKinney, M. Dunn, and D.K. Watson, "Beyond-mean-field results for atomic Bose- Einstein condensates at interaction strengths near Feshbach resonances: A many-body dimensional perturbation theory calculation," <i>Phys. Rev. A</i> 69, 053611; 2004. (<a href="http://www.sciencedirect.com/science/article/B6WB1-4B0PR02-1/2/5def0a5e989c457c78ede4b366d55acb">link</a>)  
+<p></p>
+B.A. McKinney and D.K. Watson, "Bose-Einstein condensation in variable dimensionality," <i>Phys. Rev. A</i> 65, 33604; 2002.  
+<p></p>
+B.A. McKinney, D.K. Watson, "Semiclassical dimensional perturbation theory for two electrons in a D-dimensional quantum dot," <i>Phys. Rev. B</i> 61, 4958; 2000.  
+<p></p>
 D.K. Watson and B.A. McKinney, "An improved large-N limit for Bose-Einstein condensates from perturbation theory," <i>Phys. Rev. A</i> 59, 4091; 1999
+<p></p>
