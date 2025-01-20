@@ -99,8 +99,9 @@ Peyman Zahedi, S. Parvandeh, A. Asgharpour, B. S. McLaury, S. A. Shirazi, B. A. 
 <p></p>
 Trang T. Le*, R.T. Kuplicki*, B.A. McKinney, H. Yeh, W.K. Thompson and M.P. Paulus. "A nonlinear simulation framework supports adjusting for age when analyzing BrainAGE," <i>Methods, Front. Aging Neurosci.</i> 24 October 2018. <a href="https://doi.org/10.3389/fnagi.2018.00317">https://doi.org/10.3389/fnagi.2018.00317</a> <i>*Co-First authors</i>  
 <p></p>
-B. Rahmani, K. W. Chung, P. Norouzzadeh, J. Bodurka, B. A. McKinney. "Dynamical Hurst analysis identifies EEG channel differences between PTSD and healthy controls," <i>PLoS One</i>. 2018. <a href="https://doi.org/10.1371/journal.pone.0199144"> https://doi.org/10.1371/journal.pone.0199144</a>.
+B. Rahmani, K. W. Chung, P. Norouzzadeh, J. Bodurka, B. A. McKinney. "Dynamical Hurst analysis identifies EEG channel differences between PTSD and healthy controls," <i>PLoS One</i>. 2018. <a href="https://doi.org/10.1371/journal.pone.0199144"> https://doi.org/10.1371/journal.pone.0199144</a>.  
 <p></p>
+
 <h2>2017</h2>
 Trang T. Le, W. K. Simmons, M. Misaki, B.C. White, J. Savitz, J. Bodurka, and B. A. McKinney. "Differential privacy-based evaporative cooling feature selection and classification with Relief-F and Random Forests," <i>Bioinformatics</i>, Volume 33, Issue 18, 15 September 2017, Pages 2906–2913. <a href="https://academic.oup.com/bioinformatics/article/33/18/2906/3796394/Differential-privacybased-evaporative-cooling?guestAccessKey=b91832c8-6034-46d5-95ce-382fc71c1df0">Open Access</a>.  
 <p></p>
