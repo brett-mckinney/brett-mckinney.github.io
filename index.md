@@ -5,21 +5,21 @@
 <h2>2025</h2>
 
 Lily A. Clough, Victoria Da Poian, Jonathan D. Major, Lauren M. Seyler, *Brett A. McKinney, *Bethany P. Theiling. "Interpretable Machine Learning Biosignature Detection from Ocean Worlds Analogue CO2 Isotopologue Data," (2024) Under Review. <a href="https://doi.org/10.22541/essoar.172349174.43607808/v1">ESS Preprint Archive</a> <i>*Corresponding authors</i>
-<p>
+<br>
 Yijie (Jamie) Li, Rayus Kuplicki, Bart N. Ford, Elizabeth Kresock, Leandra Figueroa-Hall, Jonathan Savitz, B. A. McKinney. "Gene Age Gap Estimate (GAGE) for major depressive disorder: a penalized biological age model using gene expression," <i>Neurobiology of Aging</a> (2025) Accepted <a href="https://www.biorxiv.org/content/10.1101/2024.09.03.610913v2">preprint</a>
-<p>
+<br>
 Bryan A. Dawkins and B. A. McKinney. "Multivariate optimization of k for k-nearest-neighbor feature selection with dichotomous outcomes: complex associations, class imbalance, and application to RNA-Seq in Major Depressive Disorder," <i>IEEE/ACM Transactions on Computational Biology and Bioinformatics</i> Accepted (2024). <a href="https://www.biorxiv.org/content/10.1101/2022.05.19.492724v1">preprint version</a>.
-<p>
+<br>
 Maria Isabelle Fite and B. A. McKinnney, "Bose-Einstein Condensate Vortices with Hypercylindrical Symmetry using Zeroth-order Dimensional Perturbation Theory," (2024) Under Review. <a href="https://arxiv.org/abs/2411.18355">https://arxiv.org/abs/2411.18355</a>
-<p>
+<br>
 Elizabeth Kresock, Bryan Dawkins, Henry Luttbeg, Jamie Li, Rayus Kuplicki, B. A. McKinney. "Centrality nearest-neighbor projected-distance regression (C-NPDR) feature selection for correlation-based predictors with application to resting-state fMRI of major depressive disorder," Under Review (2024) <a href="https://www.researchsquare.com/article/rs-4193488/latest">https://doi.org/10.21203/rs.3.rs-4193488/v1</a>
-<p>
+<br>
 Selim Karaoglu, Muhammad Imran, and B. A. McKinney, “Network-based SEITR epidemiological model,” (2024) Under Review. 
-<p>
+<br>
 Muhammad Imran; Brett Allen McKinney; Azhar Iqbal Kashif Butt; Pasquale Palumbo; Saira Batool; Hassan Aftab, "Optimal control strategies for dengue and malaria co-infection disease model," <i>MDPI Mathematics</i> 2025, 13(1), 43; <a href="https://doi.org/10.3390/math13010043">https://doi.org/10.3390/math13010043</a>.
-<p>
+<br>
 Abim Sedhain, Sruti Ragavan, Brett McKinney, Shahnewaz Leon, Sandeep Kaur Kuttal, "Predicting Information Foraging on Q&A Websites," (2024) Accepted <i>HCII</i>.
-<p>
+
 <h2>2024</h2>
 
 Azhar Iqbal Kashif Butt, Muhammad Imran, Komal Azeem, Tariq Ismaeel, B. A. McKinney (2024) "Analyzing HIV/AIDS Dynamics with a Novel Caputo-Fabrizio Fractional Order Model and Optimal Control Measures," (2024) <i>PLoS One</i> 19(12):e0315850. <a href="https://doi.org/10.1371/journal.pone.0315850">https://doi.org/10.1371/journal.pone.0315850</a>
