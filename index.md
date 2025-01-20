@@ -42,9 +42,8 @@ Lanie G. McKinney and B. A. McKinney. "Conditions for Bound States of the Pseudo
 <p></p>
 Victoria Da Poian, Bethany Theiling, Lily Clough, Brett McKinney, Jonathan Major, Jingyi Chen and Sarah Hörst. "Exploratory Data Analysis (EDA) Machine Learning Approaches for Ocean World Analog Mass Spectrometry," <i>Frontiers in Astronomy Space Science - Planetary Science</i> Volume 10 (2023) <a href="https://doi.org/10.3389/fspas.2023.1134141">https://doi.org/10.3389/fspas.2023.1134141</a>.  
 <p></p>
-Azhar Iqbal Kashif Butt, Muhammad Imran, Brett A. McKinney, Saira Batool and Hassan Aftab. "Mathematical and Stability Analysis of Dengue–Malaria Co-Infection with Disease Control Strategies," Mathematics <b>2023</b>, 11(22), 4600; <a href="https://doi.org/10.3390/math11224600">https://doi.org/10.3390/math11224600</a>  
+Azhar Iqbal Kashif Butt, Muhammad Imran, Brett A. McKinney, Saira Batool and Hassan Aftab. "Mathematical and Stability Analysis of Dengue–Malaria Co-Infection with Disease Control Strategies," Mathematics <b>2023</b>, 11(22), 4600; <a href="https://doi.org/10.3390/math11224600">https://doi.org/10.3390/math11224600</a>
 <p></p>
-
 <h2>2022</h2>
 Yijie (Jamie) Li, Elizabeth Kresock, Rayus Kuplicki, Jonathan Savitz, B. A.McKinney. "Differential expression of MDGA1 in major depressive disorder," <i>Brain, Behavior, &amp; Immunity - Health</i> (2022) <a href="https://doi.org/10.1016/j.bbih.2022.100534">https://doi.org/10.1016/j.bbih.2022.100534</a>.  
 <p></p>
