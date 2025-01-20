@@ -22,20 +22,19 @@ Abim Sedhain, Sruti Ragavan, Brett McKinney, Shahnewaz Leon, Sandeep Kaur Kuttal
 
 <h2>2024</h2>
 
-Azhar Iqbal Kashif Butt, Muhammad Imran, Komal Azeem, Tariq Ismaeel, B. A. McKinney (2024) "Analyzing HIV/AIDS Dynamics with a Novel Caputo-Fabrizio Fractional Order Model and Optimal Control Measures," (2024) <i>PLoS One</i> 19(12):e0315850. <a href="https://doi.org/10.1371/journal.pone.0315850">https://doi.org/10.1371/journal.pone.0315850</a>
-<p>
-Jonathan Savitz, Brett A. McKinney, Timothy B. Meier, Haixia Zheng, Bart N. Ford, Robert H. Yolken, T. Kent Teague, Steve W. Cole."Nuclear Factor kappa-B cell (NF-κB), Interferon Regulatory Factor, and Glucocorticoid Receptor Pathway Activation in Major Depressive Disorder: The Role of Cytomegalovirus Infection," <i>Brain Behavior and Immunity</i> 2024 Nov 10:123:1052-1060.doi: 10.1016/j.bbi.2024.11.017. <a href="https://pubmed.ncbi.nlm.nih.gov/39532200/">https://pubmed.ncbi.nlm.nih.gov/39532200/</a>
-<p>
-Kaiping Burrows, Leandra K. Figueroa-Hall, Jennifer L. Stewart, Ahlam M. Alarbi, Rayus Kuplicki, Bethany N. Hannafon, Chibing Tan, Victoria B. Risbrough, Brett A. McKinney, Rajagopal Ramesh, Teresa A. Victor, Robin Aupperle, Jonathan Savitz, T. Kent Teague, Sahib S. Khalsa; Martin P. Paulus. "Exploring the role of neuronal-enriched extracellular vesicle miR-93 and interoception in major depressive disorder," <i>Translational Psychiatry</i> volume 14, Article number: 199 (2024). <a href="https://www.nature.com/articles/s41398-024-02907-x">https://www.nature.com/articles/s41398-024-02907-x</a>
-<p>
-Muhammad Imran, Brett McKinney, Azhar Iqbal Kashif Butt, "SEIR Mathematical Model for Influenza-Corona Co-Infection with Treatment and Hospitalization Compartments and Optimal Control Strategies," (2024) <i>CMES-Computer Modeling in Engineering & Sciences</i>. <a href="https://doi.org/10.32604/cmes.2024.059552">https://doi.org/10.32604/cmes.2024.059552</a>
-<p>
-Yijie (Jamie) Li, J. Zhang, B.A. McKinney, S. Karimi, SA Shirazi. "Linear Versus Non-Linear Machine Learning Feature Selection for Erosion Rate Prediction." Proceedings of the ASME 2024 Fluids Engineering Division Summer Meeting, Volume 2: Computational Fluid Dynamics (CFDTC); Micro and Nano Fluid Dynamics (MNFDTC); Flow Visualization. Anaheim, California, USA. July 15–17, 2024. V002T05A005. ASME. https://doi.org/10.1115/FEDSM2024-130309 <a href="https://asmedigitalcollection.asme.org/FEDSM/proceedings-abstract/FEDSM2024/88131/V002T05A005/1205512">view abstract</a>
-<p>
-H. Khaleghpour and B. A. McKinney, "Optimizing Neuro-Fuzzy and Colonial Competition Algorithms for Skin Cancer Diagnosis in Dermatoscopic Images," <i>7th International Conference on Information and Computer Technologies (ICICT)</i>, Honolulu, HI, USA, 2024, pp. 166-172, doi:10.1109/ICICT62343.2024.00032. <a href="https://ieeexplore.ieee.org/document/10541825">https://ieeexplore.ieee.org/document/10541825</a>
-<p>
-Vu Nguyen, Minh Phan, Tiantian Wang, Salih Tutun, B.A. McKinney, Bahareh Rahmani. "PTSD Case Detection with Boosting," Signals (MDPI) 2024, 5(3), 508-515; <a href="https://doi.org/10.3390/signals5030027">https://doi.org/10.3390/signals5030027</a>
-<p>
+Azhar Iqbal Kashif Butt, Muhammad Imran, Komal Azeem, Tariq Ismaeel, B. A. McKinney (2024) "Analyzing HIV/AIDS Dynamics with a Novel Caputo-Fabrizio Fractional Order Model and Optimal Control Measures," (2024) <i>PLoS One</i> 19(12):e0315850. <a href="https://doi.org/10.1371/journal.pone.0315850">https://doi.org/10.1371/journal.pone.0315850</a>  
+<p></p>
+Jonathan Savitz, Brett A. McKinney, Timothy B. Meier, Haixia Zheng, Bart N. Ford, Robert H. Yolken, T. Kent Teague, Steve W. Cole."Nuclear Factor kappa-B cell (NF-κB), Interferon Regulatory Factor, and Glucocorticoid Receptor Pathway Activation in Major Depressive Disorder: The Role of Cytomegalovirus Infection," <i>Brain Behavior and Immunity</i> 2024 Nov 10:123:1052-1060.doi: 10.1016/j.bbi.2024.11.017. <a href="https://pubmed.ncbi.nlm.nih.gov/39532200/">https://pubmed.ncbi.nlm.nih.gov/39532200/</a> <p></p>
+Kaiping Burrows, Leandra K. Figueroa-Hall, Jennifer L. Stewart, Ahlam M. Alarbi, Rayus Kuplicki, Bethany N. Hannafon, Chibing Tan, Victoria B. Risbrough, Brett A. McKinney, Rajagopal Ramesh, Teresa A. Victor, Robin Aupperle, Jonathan Savitz, T. Kent Teague, Sahib S. Khalsa; Martin P. Paulus. "Exploring the role of neuronal-enriched extracellular vesicle miR-93 and interoception in major depressive disorder," <i>Translational Psychiatry</i> volume 14, Article number: 199 (2024). <a href="https://www.nature.com/articles/s41398-024-02907-x">https://www.nature.com/articles/s41398-024-02907-x</a>  
+<p></p>
+Muhammad Imran, Brett McKinney, Azhar Iqbal Kashif Butt, "SEIR Mathematical Model for Influenza-Corona Co-Infection with Treatment and Hospitalization Compartments and Optimal Control Strategies," (2024) <i>CMES-Computer Modeling in Engineering & Sciences</i>. <a href="https://doi.org/10.32604/cmes.2024.059552">https://doi.org/10.32604/cmes.2024.059552</a>  
+<p></p>
+Yijie (Jamie) Li, J. Zhang, B.A. McKinney, S. Karimi, SA Shirazi. "Linear Versus Non-Linear Machine Learning Feature Selection for Erosion Rate Prediction." Proceedings of the ASME 2024 Fluids Engineering Division Summer Meeting, Volume 2: Computational Fluid Dynamics (CFDTC); Micro and Nano Fluid Dynamics (MNFDTC); Flow Visualization. Anaheim, California, USA. July 15–17, 2024. V002T05A005. ASME. https://doi.org/10.1115/FEDSM2024-130309 <a href="https://asmedigitalcollection.asme.org/FEDSM/proceedings-abstract/FEDSM2024/88131/V002T05A005/1205512">view abstract</a>  
+<p></p>
+H. Khaleghpour and B. A. McKinney, "Optimizing Neuro-Fuzzy and Colonial Competition Algorithms for Skin Cancer Diagnosis in Dermatoscopic Images," <i>7th International Conference on Information and Computer Technologies (ICICT)</i>, Honolulu, HI, USA, 2024, pp. 166-172, doi:10.1109/ICICT62343.2024.00032. <a href="https://ieeexplore.ieee.org/document/10541825">https://ieeexplore.ieee.org/document/10541825</a>  
+<p></p>
+Vu Nguyen, Minh Phan, Tiantian Wang, Salih Tutun, B.A. McKinney, Bahareh Rahmani. "PTSD Case Detection with Boosting," Signals (MDPI) 2024, 5(3), 508-515; <a href="https://doi.org/10.3390/signals5030027">https://doi.org/10.3390/signals5030027</a>  
+<p></p>
 <h2>2023</h2>
 Lanie G. McKinney and B. A. McKinney. "Conditions for Bound States of the Pseudopotential with Harmonic Confinement in Arbitrary Dimensions," <i>Physica Scripta</i> (2023) <b>98</b> 015404 <a href="https://iopscience.iop.org/article/10.1088/1402-4896/aca6b6">https://iopscience.iop.org/article/10.1088/1402-4896/aca6b6</a>.
 
