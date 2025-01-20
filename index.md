@@ -6,7 +6,8 @@
 
 Lily A. Clough, Victoria Da Poian, Jonathan D. Major, Lauren M. Seyler, *Brett A. McKinney, *Bethany P. Theiling. "Interpretable Machine Learning Biosignature Detection from Ocean Worlds Analogue CO2 Isotopologue Data," (2024) Under Review. <a href="https://doi.org/10.22541/essoar.172349174.43607808/v1">ESS Preprint Archive</a> <i>*Corresponding authors</i>  
 <p></p>
-Yijie (Jamie) Li, Rayus Kuplicki, Bart N. Ford, Elizabeth Kresock, Leandra Figueroa-Hall, Jonathan Savitz, B. A. McKinney. "Gene Age Gap Estimate (GAGE) for major depressive disorder: a penalized biological age model using gene expression," <i>Neurobiology of Aging</a> (2025) Accepted <a href="https://www.biorxiv.org/content/10.1101/2024.09.03.610913v2">preprint</a>  
+Yijie (Jamie) Li, Rayus Kuplicki, Bart N. Ford, Elizabeth Kresock, Leandra Figueroa-Hall, Jonathan Savitz, B. A. McKinney. "Gene Age Gap Estimate (GAGE) for major depressive disorder: a penalized biological age model using gene expression," <i>Neurobiology of Aging</a> (2025) Accepted 
+  <a href="https://www.biorxiv.org/content/10.1101/2024.09.03.610913v2">preprint</a>  
 <p></p>
 Bryan A. Dawkins and B. A. McKinney. "Multivariate optimization of k for k-nearest-neighbor feature selection with dichotomous outcomes: complex associations, class imbalance, and application to RNA-Seq in Major Depressive Disorder," <i>IEEE/ACM Transactions on Computational Biology and Bioinformatics</i> Accepted (2024). <a href="https://www.biorxiv.org/content/10.1101/2022.05.19.492724v1">preprint version</a>.  
 <p></p>
@@ -35,60 +36,73 @@ H. Khaleghpour and B. A. McKinney, "Optimizing Neuro-Fuzzy and Colonial Competit
 <p></p>
 Vu Nguyen, Minh Phan, Tiantian Wang, Salih Tutun, B.A. McKinney, Bahareh Rahmani. "PTSD Case Detection with Boosting," Signals (MDPI) 2024, 5(3), 508-515; <a href="https://doi.org/10.3390/signals5030027">https://doi.org/10.3390/signals5030027</a>  
 <p></p>
+
 <h2>2023</h2>
-Lanie G. McKinney and B. A. McKinney. "Conditions for Bound States of the Pseudopotential with Harmonic Confinement in Arbitrary Dimensions," <i>Physica Scripta</i> (2023) <b>98</b> 015404 <a href="https://iopscience.iop.org/article/10.1088/1402-4896/aca6b6">https://iopscience.iop.org/article/10.1088/1402-4896/aca6b6</a>.
+Lanie G. McKinney and B. A. McKinney. "Conditions for Bound States of the Pseudopotential with Harmonic Confinement in Arbitrary Dimensions," <i>Physica Scripta</i> (2023) <b>98</b> 015404 <a href="https://iopscience.iop.org/article/10.1088/1402-4896/aca6b6">https://iopscience.iop.org/article/10.1088/1402-4896/aca6b6</a>.  
+<p></p>
+Victoria Da Poian, Bethany Theiling, Lily Clough, Brett McKinney, Jonathan Major, Jingyi Chen and Sarah Hörst. "Exploratory Data Analysis (EDA) Machine Learning Approaches for Ocean World Analog Mass Spectrometry," <i>Frontiers in Astronomy Space Science - Planetary Science</i> Volume 10 (2023) <a href="https://doi.org/10.3389/fspas.2023.1134141">https://doi.org/10.3389/fspas.2023.1134141</a>.  
+<p></p>
+Azhar Iqbal Kashif Butt, Muhammad Imran, Brett A. McKinney, Saira Batool and Hassan Aftab. "Mathematical and Stability Analysis of Dengue–Malaria Co-Infection with Disease Control Strategies," Mathematics <b>2023</b>, 11(22), 4600; <a href="https://doi.org/10.3390/math11224600">https://doi.org/10.3390/math11224600</a>  
+<p></p>
 
-Victoria Da Poian, Bethany Theiling, Lily Clough, Brett McKinney, Jonathan Major, Jingyi Chen and Sarah Hörst. "Exploratory Data Analysis (EDA) Machine Learning Approaches for Ocean World Analog Mass Spectrometry," <i>Frontiers in Astronomy Space Science - Planetary Science</i> Volume 10 (2023) <a href="https://doi.org/10.3389/fspas.2023.1134141">https://doi.org/10.3389/fspas.2023.1134141</a>.
-
-Azhar Iqbal Kashif Butt, Muhammad Imran, Brett A. McKinney, Saira Batool and Hassan Aftab. "Mathematical and Stability Analysis of Dengue–Malaria Co-Infection with Disease Control Strategies," Mathematics <b>2023</b>, 11(22), 4600; <a href="https://doi.org/10.3390/math11224600">https://doi.org/10.3390/math11224600</a>
 <h2>2022</h2>
-Yijie (Jamie) Li, Elizabeth Kresock, Rayus Kuplicki, Jonathan Savitz, B. A.McKinney. "Differential expression of MDGA1 in major depressive disorder," <i>Brain, Behavior, &amp; Immunity - Health</i> (2022) <a href="https://doi.org/10.1016/j.bbih.2022.100534">https://doi.org/10.1016/j.bbih.2022.100534</a>.
+Yijie (Jamie) Li, Elizabeth Kresock, Rayus Kuplicki, Jonathan Savitz, B. A.McKinney. "Differential expression of MDGA1 in major depressive disorder," <i>Brain, Behavior, &amp; Immunity - Health</i> (2022) <a href="https://doi.org/10.1016/j.bbih.2022.100534">https://doi.org/10.1016/j.bbih.2022.100534</a>.  
+<p></p>
+Laura D Wilson, Rachel A Hildebrand, Trang T. Le, B. A. McKinney. "Repetitive head impacts in a collegiate football season: Exposure and effects," <i>International Journal of Sports Science &amp; Coaching</i> 17(2): 285-297 (2022) <a href="https://doi.org/10.1177/17479541211027277">https://doi.org/10.1177/17479541211027277</a>.  
+<p></p>
+A. Sedhain, S. S. Ragavan, B. McKinney and S. K. Kuttal, "Estimating Foraging Values and Costs in Stack Overflow," <i>2022 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)</i> pp. 1-4, doi:10.1109/VL/HCC53370.2022.9833135.  
+<p></p>
+Ian Riley, B.A. McKinney, R.F. Gamble. "Improving the Expected Performance of Self-Organization in a Collective Adaptive System of Drones using Stochastic Multiplayer Games," <i>Proceedings of the 55th Hawaii International Conference on System Sciences</i> (2022) <a href="http://hdl.handle.net/10125/80260">http://hdl.handle.net/10125/80260</a>.  
+<p></p>
 
-Laura D Wilson, Rachel A Hildebrand, Trang T. Le, B. A. McKinney. "Repetitive head impacts in a collegiate football season: Exposure and effects," <i>International Journal of Sports Science &amp; Coaching</i> 17(2): 285-297 (2022) <a href="https://doi.org/10.1177/17479541211027277">https://doi.org/10.1177/17479541211027277</a>.
-
-A. Sedhain, S. S. Ragavan, B. McKinney and S. K. Kuttal, "Estimating Foraging Values and Costs in Stack Overflow," <i>2022 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)</i> pp. 1-4, doi:10.1109/VL/HCC53370.2022.9833135.
-
-Ian Riley, B.A. McKinney, R.F. Gamble. "Improving the Expected Performance of Self-Organization in a Collective Adaptive System of Drones using Stochastic Multiplayer Games," <i>Proceedings of the 55th Hawaii International Conference on System Sciences</i> (2022) <a href="http://hdl.handle.net/10125/80260">http://hdl.handle.net/10125/80260</a>.
 <h2>2021</h2>
-Bryan A. Dawkins, Trang T. Le, B. A. McKinney. "Theoretical properties of distance distributions and novel metrics for nearest-neighbor feature selection," <i>PLoS ONE</i> 16(2): e0246761. (2021) <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246761">https://doi.org/10.1371/journal.pone.0246761</a>.
+Bryan A. Dawkins, Trang T. Le, B. A. McKinney. "Theoretical properties of distance distributions and novel metrics for nearest-neighbor feature selection," <i>PLoS ONE</i> 16(2): e0246761. (2021) <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246761">https://doi.org/10.1371/journal.pone.0246761</a>.  
+<p></p>
+Rayus Kuplicki, J. Touthang, O. A. Zoubi, A. Mayeli, M. Misaki, NeuroMAP-Investigators, R. L. Aupperle, T. K. Teague, B. A. McKinney, M. Paulus, J. Bodurka. "Common Data Elements, Scalable Data Management Infrastructure and Analytics Workflows for Large-scale Neuroimaging Studies," <i>Frontiers in Psychiatry, section Neuroimaging and Stimulation</i> 17 June (2021) DOI: 10.3389/fpsyt.2021.682495. <a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2021.682495/full?&amp;utm_source=Email_to_authors_&amp;utm_medium=Email&amp;utm_content=T1_11.5e1_author&amp;utm_campaign=Email_publication&amp;field=&amp;journalName=Frontiers_in_Psychiatry&amp;id=682495">Open Access</a>.  
+<p></p>
 
-Rayus Kuplicki, J. Touthang, O. A. Zoubi, A. Mayeli, M. Misaki, NeuroMAP-Investigators, R. L. Aupperle, T. K. Teague, B. A. McKinney, M. Paulus, J. Bodurka. "Common Data Elements, Scalable Data Management Infrastructure and Analytics Workflows for Large-scale Neuroimaging Studies," <i>Frontiers in Psychiatry, section Neuroimaging and Stimulation</i> 17 June (2021) DOI: 10.3389/fpsyt.2021.682495. <a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2021.682495/full?&amp;utm_source=Email_to_authors_&amp;utm_medium=Email&amp;utm_content=T1_11.5e1_author&amp;utm_campaign=Email_publication&amp;field=&amp;journalName=Frontiers_in_Psychiatry&amp;id=682495">Open Access</a>.
 <h2>2020</h2>
-Trang T. Le, Bryan A. Dawkins, B. A. McKinney. "Nearest-neighbor Projected-Distance Regression (NPDR) for detecting network interactions with adjustments for multiple tests and confounding," <i>Bioinformatics</i> (2020) <a href="https://doi.org/10.1093/bioinformatics/btaa024">https://doi.org/10.1093/bioinformatics/btaa024</a> <a href="https://github.com/lelaboratoire/npdr-paper/blob/revision-round-1/ms/cabios-template/main_npdr.pdf">github version</a> or <a href="https://www.biorxiv.org/content/10.1101/861492v1">biorxiv</a>.
+Trang T. Le, Bryan A. Dawkins, B. A. McKinney. "Nearest-neighbor Projected-Distance Regression (NPDR) for detecting network interactions with adjustments for multiple tests and confounding," <i>Bioinformatics</i> (2020) <a href="https://doi.org/10.1093/bioinformatics/btaa024">https://doi.org/10.1093/bioinformatics/btaa024</a> <a href="https://github.com/lelaboratoire/npdr-paper/blob/revision-round-1/ms/cabios-template/main_npdr.pdf">github version</a> or <a href="https://www.biorxiv.org/content/10.1101/861492v1">biorxiv</a>.  
+<p></p>
+Saeid Parvandeh, Hung-Wen Yeh, M. P. Paulus, B. A. McKinney. "Consensus Features Nested Cross-Validation," <i>Bioinformatics</i> (2020) <a href="https://doi.org/10.1093/bioinformatics/btaa046">https://doi.org/10.1093/bioinformatics/btaa046</a> <a href="https://www.biorxiv.org/content/10.1101/2019.12.31.891895v1">preprint version</a>.  
+<p></p>
+Marziyeh Arabnejad, C. G. Montgomery, P. M. Gaffney, B. A. McKinney. "Nearest-Neighbor Projected Distance Regression for Epistasis Detection in GWAS With Population Structure Correction," <i>Frontiers in Genetics</i> (2020) <a href="https://www.frontiersin.org/articles/10.3389/fgene.2020.00784/abstract">https://www.frontiersin.org/articles/10.3389/fgene.2020.00784/abstract</a>.  
+<p></p>
+Matt Moradi, H. Ekhtiari, R. Kuplicki, B. A. McKinney, J. L. Stewart, T. A. Victor, M. P. Paulus. "Evaluating the Resource Allocation Index as a Potential fMRI-based Biomarker for Substance Use Disorder," <i>Drug and Alcohol Dependence</i> (2020) <a href="https://doi.org/10.1016/j.drugalcdep.2020.108211">https://doi.org/10.1016/j.drugalcdep.2020.108211</a>.  
+<p></p>
+B. Xu, Matt Moradi, R. T. Kuplicki, J. L. Stewart, B. A. McKinney, S. Sen, M. P. Paulus. "Machine Learning Analysis of Electronic Nose in a Transdiagnostic Community Sample with a Streamlined Data Collection Approach: No Links Between Volatile Organic Compounds and Psychiatric Symptoms," <i>Frontiers in Psychiatry, section Computational Psychiatry</i> (2020) <a href="https://doi.org/10.3389/fpsyt.2020.503248">https://doi.org/10.3389/fpsyt.2020.503248</a>.  
+<p></p>
 
-Saeid Parvandeh, Hung-Wen Yeh, M. P. Paulus, B. A. McKinney. "Consensus Features Nested Cross-Validation," <i>Bioinformatics</i> (2020) <a href="https://doi.org/10.1093/bioinformatics/btaa046">https://doi.org/10.1093/bioinformatics/btaa046</a> <a href="https://www.biorxiv.org/content/10.1101/2019.12.31.891895v1">preprint version</a>.
-
-Marziyeh Arabnejad, C. G. Montgomery, P. M. Gaffney, B. A. McKinney. "Nearest-Neighbor Projected Distance Regression for Epistasis Detection in GWAS With Population Structure Correction," <i>Frontiers in Genetics</i> (2020) <a href="https://www.frontiersin.org/articles/10.3389/fgene.2020.00784/abstract">https://www.frontiersin.org/articles/10.3389/fgene.2020.00784/abstract</a>.
-
-Matt Moradi, H. Ekhtiari, R. Kuplicki, B. A. McKinney, J. L. Stewart, T. A. Victor, M. P. Paulus. "Evaluating the Resource Allocation Index as a Potential fMRI-based Biomarker for Substance Use Disorder," <i>Drug and Alcohol Dependence</i> (2020) <a href="https://doi.org/10.1016/j.drugalcdep.2020.108211">https://doi.org/10.1016/j.drugalcdep.2020.108211</a>.
-
-B. Xu, Matt Moradi, R. T. Kuplicki, J. L. Stewart, B. A. McKinney, S. Sen, M. P. Paulus. "Machine Learning Analysis of Electronic Nose in a Transdiagnostic Community Sample with a Streamlined Data Collection Approach: No Links Between Volatile Organic Compounds and Psychiatric Symptoms," <i>Frontiers in Psychiatry, section Computational Psychiatry</i> (2020) <a href="https://doi.org/10.3389/fpsyt.2020.503248">https://doi.org/10.3389/fpsyt.2020.503248</a>.
 <h2>2019</h2>
-Trang T. Le, Zach Osman, D. K. Watson, Martin Dunn, B. A. McKinney. "Generalization of the Fermi Pseudopotential," <i>Physica Scripta</i> (2019) <b>94</b>(6) 065203. <a href="https://arxiv.org/abs/1806.05726">preprint</a>. <a href="https://iopscience.iop.org/article/10.1088/1402-4896/ab0811">published</a>.
-
+Trang T. Le, Zach Osman, D. K. Watson, Martin Dunn, B. A. McKinney. "Generalization of the Fermi Pseudopotential," <i>Physica Scripta</i> (2019) <b>94</b>(6) 065203. <a href="https://arxiv.org/abs/1806.05726">preprint</a>. <a href="https://iopscience.iop.org/article/10.1088/1402-4896/ab0811">published</a>.  
+<p></p>
 Saeid Parvandeh and B. A. McKinney. "EpistasisRank and EpistasisKatz: interaction network centrality methods that integrate prior knowledge networks," <i>Bioinformatics</i>. (2019) <a href="https://doi.org/10.1093/bioinformatics/bty965">https://doi.org/10.1093/bioinformatics/bty965t</a>.
 <a href="http://insilico.utulsa.edu/wp-content/uploads/2018/11/epistasisKatz.pdf">Preprint Version</a>.
-<a href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/PAP/10.1093_bioinformatics_bty965/1/bty965_supp.docx?Expires=1543432463&amp;Signature=TPEfNmCeMPGqDqw~C~5RXAvmECjWCsyjIHALfVGZ9yRJA-tZJLq8-1hVmUrT-OPkvfm4X2~9HrlMQQKe6hcEk3wCMVufilT-mHv-1wEGUzYPi1zRjr0jBM6RyD7kl61N5PfP~7fTQqZdxtlK-CMdO9XzP9J2k6XNYOi8gynaPymt45uokWelLZNlTHTkOUzE5foN56pdwBhpiMOokWj0ZKHboNjXVtcSMx5~pqLVz2cUwuXHp30LsLpDSmLp7aJ7~6waJUVff1zrX8NLM-RVE-USMA2ayQg0dlP6y5Zm~f1yPFmpxLqovJXKxMx17ZLZTMXiZjxEfOsLGOT-QjGhPg__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">Supplementary Material</a>
+<a href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/PAP/10.1093_bioinformatics_bty965/1/bty965_supp.docx?Expires=1543432463&amp;Signature=TPEfNmCeMPGqDqw~C~5RXAvmECjWCsyjIHALfVGZ9yRJA-tZJLq8-1hVmUrT-OPkvfm4X2~9HrlMQQKe6hcEk3wCMVufilT-mHv-1wEGUzYPi1zRjr0jBM6RyD7kl61N5PfP~7fTQqZdxtlK-CMdO9XzP9J2k6XNYOi8gynaPymt45uokWelLZNlTHTkOUzE5foN56pdwBhpiMOokWj0ZKHboNjXVtcSMx5~pqLVz2cUwuXHp30LsLpDSmLp7aJ7~6waJUVff1zrX8NLM-RVE-USMA2ayQg0dlP6y5Zm~f1yPFmpxLqovJXKxMx17ZLZTMXiZjxEfOsLGOT-QjGhPg__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">Supplementary Material</a>  
+<p></p>
+Saied Parvandeh, G.A. Poland, R.B. Kennedy, B. A. McKinney. "Multi-level model to predict antibody response to influenza vaccine using gene expression interaction network feature selection," <i>Microorganisms: Vaccine Informatics</i> (2019) <b>7</b>(3), 79 doi:10.3390/microorganisms7030079. <a href="https://www.mdpi.com/2076-2607/7/3/79">https://www.mdpi.com/2076-2607/7/3/79</a>.  
+<p></p>
+A. Pezeshki, I.A. Ovsyannikova, B.A. McKinney, G.A. Poland, R.B. Kennedy. "The role of systems biology approaches in determining molecular signatures for the development of more effective vaccines," <i>Expert Review of Vaccines (IERV)</i> (2019) <a href="https://doi.org/10.1080/14760584.2019.1575208">https://doi.org/10.1080/14760584.2019.1575208</a>.  
+<p></p>
+S. M. Santos, M. Icyuz, I. Pound, D. William, J. Guo, B. A. McKinney, M. Niederweis, J. W. Rodgers, J. L Hartman IV. "A humanized yeast phenomic model of deoxycytidine kinase to predict genetic buffering of nucleoside analog cytotoxicity," <i>Genes: Microbial Genetics and Genomics</i> (2019) Sep 30;10(10). pii:E770. doi:10.3390/genes10100770. <a href="https://www.biorxiv.org/content/10.1101/700153v1?rss=1">BioRxiv</a>.  
+<p></p>
 
-Saied Parvandeh, G.A. Poland, R.B. Kennedy, B. A. McKinney. "Multi-level model to predict antibody response to influenza vaccine using gene expression interaction network feature selection," <i>Microorganisms: Vaccine Informatics</i> (2019) <b>7</b>(3), 79 doi:10.3390/microorganisms7030079. <a href="https://www.mdpi.com/2076-2607/7/3/79">https://www.mdpi.com/2076-2607/7/3/79</a>.
-
-A. Pezeshki, I.A. Ovsyannikova, B.A. McKinney, G.A. Poland, R.B. Kennedy. "The role of systems biology approaches in determining molecular signatures for the development of more effective vaccines," <i>Expert Review of Vaccines (IERV)</i> (2019) <a href="https://doi.org/10.1080/14760584.2019.1575208">https://doi.org/10.1080/14760584.2019.1575208</a>.
-
-S. M. Santos, M. Icyuz, I. Pound, D. William, J. Guo, B. A. McKinney, M. Niederweis, J. W. Rodgers, J. L Hartman IV. "A humanized yeast phenomic model of deoxycytidine kinase to predict genetic buffering of nucleoside analog cytotoxicity," <i>Genes: Microbial Genetics and Genomics</i> (2019) Sep 30;10(10). pii:E770. doi:10.3390/genes10100770. <a href="https://www.biorxiv.org/content/10.1101/700153v1?rss=1">BioRxiv</a>.
 <h2>2018</h2>
 Marziyeh Arabnejad, B. A. Dawkins, W.S. Bush, B.C. White, A.R. Harkness and B. A. McKinney. "Transition-transversion encoding and genetic relationship metric in ReliefF feature selection improves pathway enrichment in GWAS," <i>BMC BioData Mining</i>. (2018) <b>11</b>:23.
 html: <a href="https://doi.org/10.1186/s13040-018-0186-4">https://doi.org/10.1186/s13040-018-0186-4</a>
-Enhanced pdf: <a href="https://rdcu.be/baHpV">https://rdcu.be/baHpV</a>
+Enhanced pdf: <a href="https://rdcu.be/baHpV">https://rdcu.be/baHpV</a>  
+<p></p>
+Trang T. Le, R. J. Urbanowicz, J. H. Moore, B. A McKinney. "STatistical Inference Relief (STIR) feature selection," <i>Bioinformatics</i>. (2018) Sep 18 <a href="https://doi.org/10.1093/bioinformatics/bty788">https://doi.org/10.1093/bioinformatics/bty788</a>.  
+<p></p>
+Trang T. Le, J. Savitz, H. Suzuki, M. Misaki, T. K. Teague, B. C. White, J. H. Marino, G. Wiley, P. M. Gaffney, W. C. Drevets, B. A. McKinney* and J. Bodurka*. "Identification and replication of RNA-Seq gene network modules associated with depression severity," <i>Translational Psychiatry</i> (2018) 8:180 DOI 10.1038/s41398-018-0234-3. <a href="https://rdcu.be/5S6I">Open Access</a> <i>*Co-Senior authors</i>  
+<p></p>
+Peyman Zahedi, S. Parvandeh, A. Asgharpour, B. S. McLaury, S. A. Shirazi, B. A. McKinney. "Random Forest Regression Prediction of Solid Particle Erosion in Elbows," <i>Powder Technology</i>, Volume 338, October 2018, Pages 983-992. <a href="https://doi.org/10.1016/j.powtec.2018.07.055">ScienceDirect</a>.  
+<p></p>
+Trang T. Le*, R.T. Kuplicki*, B.A. McKinney, H. Yeh, W.K. Thompson and M.P. Paulus. "A nonlinear simulation framework supports adjusting for age when analyzing BrainAGE," <i>Methods, Front. Aging Neurosci.</i> 24 October 2018. <a href="https://doi.org/10.3389/fnagi.2018.00317">https://doi.org/10.3389/fnagi.2018.00317</a> <i>*Co-First authors</i>  
+<p></p>
+B. Rahmani, K. W. Chung, P. Norouzzadeh, J. Bodurka, B. A. McKinney. "Dynamical Hurst analysis identifies EEG channel differences between PTSD and healthy controls," <i>PLoS One</i>. 2018. <a href="https://doi.org/10.1371/journal.pone.0199144"> https://doi.org/10.1371/journal.pone.0199144</a>.  
+<p></p>
 
-Trang T. Le, R. J. Urbanowicz, J. H. Moore, B. A McKinney. "STatistical Inference Relief (STIR) feature selection," <i>Bioinformatics</i>. (2018) Sep 18 <a href="https://doi.org/10.1093/bioinformatics/bty788">https://doi.org/10.1093/bioinformatics/bty788</a>.
-
-Trang T. Le, J. Savitz, H. Suzuki, M. Misaki, T. K. Teague, B. C. White, J. H. Marino, G. Wiley, P. M. Gaffney, W. C. Drevets, B. A. McKinney* and J. Bodurka*. "Identification and replication of RNA-Seq gene network modules associated with depression severity," <i>Translational Psychiatry</i> (2018) 8:180 DOI 10.1038/s41398-018-0234-3. <a href="https://rdcu.be/5S6I">Open Access</a> <i>*Co-Senior authors</i>
-
-Peyman Zahedi, S. Parvandeh, A. Asgharpour, B. S. McLaury, S. A. Shirazi, B. A. McKinney. "Random Forest Regression Prediction of Solid Particle Erosion in Elbows," <i>Powder Technology</i>, Volume 338, October 2018, Pages 983-992. <a href="https://doi.org/10.1016/j.powtec.2018.07.055">ScienceDirect</a>.
-
-Trang T. Le*, R.T. Kuplicki*, B.A. McKinney, H. Yeh, W.K. Thompson and M.P. Paulus. "A nonlinear simulation framework supports adjusting for age when analyzing BrainAGE," <i>Methods, Front. Aging Neurosci.</i> 24 October 2018. <a href="https://doi.org/10.3389/fnagi.2018.00317">https://doi.org/10.3389/fnagi.2018.00317</a> <i>*Co-First authors</i>
-
-B. Rahmani, K. W. Chung, P. Norouzzadeh, J. Bodurka, B. A. McKinney. "Dynamical Hurst analysis identifies EEG channel differences between PTSD and healthy controls," <i>PLoS One</i>. 2018. <a href="https://doi.org/10.1371/journal.pone.0199144"> https://doi.org/10.1371/journal.pone.0199144</a>.
 <h2>2017</h2>
 Trang T. Le, W. K. Simmons, M. Misaki, B.C. White, J. Savitz, J. Bodurka, and B. A. McKinney. "Differential privacy-based evaporative cooling feature selection and classification with Relief-F and Random Forests," <i>Bioinformatics</i>, Volume 33, Issue 18, 15 September 2017, Pages 2906–2913. <a href="https://academic.oup.com/bioinformatics/article/33/18/2906/3796394/Differential-privacybased-evaporative-cooling?guestAccessKey=b91832c8-6034-46d5-95ce-382fc71c1df0">Open Access</a>.
 
