@@ -1,6 +1,10 @@
 ## Brett McKinney
 <a href="http://insilico.utulsa.edu">McKinney Lab Web page</a>
 <p>
+<a href="https://sites.utulsa.edu/insilico/">Other Web Page</a>
+<p>
+<a href="https://github.com/insilico">Insilico Github</a>
+<p>
 <a href="https://scholar.google.com/citations?user=3M1gxVsAAAAJ&amp;hl=en">Google Scholar</a>
 <h2>2025</h2>
 
