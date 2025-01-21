@@ -1,7 +1,7 @@
 ## Brett McKinney
-<a href="http://insilico.utulsa.edu">McKinney Lab Web page</a>
+<a href="http://insilico.utulsa.edu">insilico.utulsa.edu</a>
 <p>
-<a href="https://sites.utulsa.edu/insilico/">Other Web Page</a>
+<a href="https://sites.utulsa.edu/insilico/">sites.utulsa.edu/insilico/</a>
 <p>
 <a href="https://github.com/insilico">Insilico Github</a>
 <p>
