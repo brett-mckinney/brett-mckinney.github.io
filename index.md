@@ -12,7 +12,7 @@
 
 Lily A. Clough, Victoria Da Poian, Jonathan D. Major, Lauren M. Seyler, *Brett A. McKinney, *Bethany P. Theiling. "Interpretable Machine Learning Biosignature Detection from Ocean Worlds Analogue CO2 Isotopologue Data," (2024) Under Review. <a href="https://doi.org/10.22541/essoar.172349174.43607808/v1">ESS Preprint Archive</a> <i>*Corresponding authors</i>  
 <p></p>
-Yijie (Jamie) Li, Rayus Kuplicki, Bart N. Ford, Elizabeth Kresock, Leandra Figueroa-Hall, Jonathan Savitz, B. A. McKinney. "Gene Age Gap Estimate (GAGE) for major depressive disorder: a penalized biological age model using gene expression," <i>Neurobiology of Aging</a> (2025) Accepted 
+Yijie (Jamie) Li, Rayus Kuplicki, Bart N. Ford, Elizabeth Kresock, Leandra Figueroa-Hall, Jonathan Savitz, B. A. McKinney. "Gene Age Gap Estimate (GAGE) for major depressive disorder: a penalized biological age model using gene expression," <i>Neurobiology of Aging</i> (2025) Accepted 
   <a href="https://www.biorxiv.org/content/10.1101/2024.09.03.610913v2">preprint</a>  
 <p></p>
 Bryan A. Dawkins and B. A. McKinney. "Multivariate optimization of k for k-nearest-neighbor feature selection with dichotomous outcomes: complex associations, class imbalance, and application to RNA-Seq in Major Depressive Disorder," <i>IEEE/ACM Transactions on Computational Biology and Bioinformatics</i> Accepted (2024). <a href="https://www.biorxiv.org/content/10.1101/2022.05.19.492724v1">preprint version</a>.  
