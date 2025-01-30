@@ -1,4 +1,6 @@
-## Brett McKinney
+## Brett McKinney, PhD Theoretical Physics
+Professor of Computer Science and Mathematics
+Research Areas: Theoretical Physics, Machine Learning, Bioinformatics
 <a href="http://insilico.utulsa.edu">insilico.utulsa.edu</a>
 <p>
 <a href="https://sites.utulsa.edu/insilico/">sites.utulsa.edu/insilico/</a>
