@@ -23,7 +23,7 @@ Bryan A. Dawkins and B. A. McKinney. "Multivariate optimization of k for k-neare
 <p></p>
 Maria Isabelle Fite and B. A. McKinnney, "Bose-Einstein Condensate Vortices with Hypercylindrical Symmetry using Zeroth-order Dimensional Perturbation Theory," (2024) Under Review. <a href="https://arxiv.org/abs/2411.18355">https://arxiv.org/abs/2411.18355</a>  
 <p></p>
-Elizabeth Kresock, Bryan Dawkins, Henry Luttbeg, Jamie Li, Rayus Kuplicki, B. A. McKinney. "Centrality nearest-neighbor projected-distance regression (C-NPDR) feature selection for correlation-based predictors with application to resting-state fMRI of major depressive disorder," Under Review (2024) <a href="https://www.researchsquare.com/article/rs-4193488/latest">https://doi.org/10.21203/rs.3.rs-4193488/v1</a>  
+Elizabeth Kresock, Bryan Dawkins, Henry Luttbeg, Jamie Li, Rayus Kuplicki, B. A. McKinney. "Centrality nearest-neighbor projected-distance regression (C-NPDR) feature selection for correlation-based predictors with application to resting-state fMRI of major depressive disorder," Accepted (2024) <a href="https://www.researchsquare.com/article/rs-4193488/latest">https://doi.org/10.21203/rs.3.rs-4193488/v1</a>  
 <p></p>
 Selim Karaoglu, Muhammad Imran, and B. A. McKinney, “Network-based SEITR epidemiological model,” (2024) Under Review.   
 <p></p>
