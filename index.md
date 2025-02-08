@@ -7,9 +7,8 @@ Research Areas: Theoretical Physics, Machine Learning, Bioinformatics
 <p>
 <a href="https://github.com/insilico">Insilico Github</a>
 <p>
-<a href="https://scholar.google.com/citations?user=3M1gxVsAAAAJ&amp;hl=en">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="orcid.org/0000-0002-9494-8833">orcid.org/0000-0002-9494-8833</a>
 
-<h1>Publications</h1>
+<h1>Publications</h1>  <a href="https://scholar.google.com/citations?user=3M1gxVsAAAAJ&amp;hl=en">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="orcid.org/0000-0002-9494-8833">orcid.org/0000-0002-9494-8833</a>
 <h2>2025</h2>
 
 Lily A. Clough, Victoria Da Poian, Jonathan D. Major, Lauren M. Seyler, *Brett A. McKinney, *Bethany P. Theiling. "Interpretable Machine Learning Biosignature Detection from Ocean Worlds Analogue CO2 Isotopologue Data," (2024) Under Review. <a href="https://doi.org/10.22541/essoar.172349174.43607808/v1">ESS Preprint Archive</a> <i>*Corresponding authors</i>  
