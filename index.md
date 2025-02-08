@@ -3,11 +3,11 @@ Professor of Computer Science and Mathematics
 <p>
 Research Areas: Theoretical Physics, Machine Learning, Bioinformatics
 <p>
-<a href="http://insilico.utulsa.edu">insilico.utulsa.edu</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://sites.utulsa.edu/insilico/">sites.utulsa.edu/insilico/</a>
-<p>
-<a href="https://github.com/insilico">Insilico Github</a>
-<p>
-
+<a href="https://github.com/insilico">Insilico Github</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://sites.utulsa.edu/insilico/">sites.utulsa.edu/insilico/</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="http://insilico.utulsa.edu">insilico.utulsa.edu</a>
+<p> 
+  
 <h1>Publications</h1>  <a href="https://scholar.google.com/citations?user=3M1gxVsAAAAJ&amp;hl=en">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="orcid.org/0000-0002-9494-8833">orcid.org/0000-0002-9494-8833</a>
 <h2>2025</h2>
 
