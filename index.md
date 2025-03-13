@@ -11,7 +11,7 @@ Research Areas: Theoretical Physics, Machine Learning, Bioinformatics
 <h2>2025</h2>
 
 Lily A. Clough, Victoria Da Poian, Jonathan D. Major, Lauren M. Seyler, *Brett A. McKinney, *Bethany P. Theiling (2025). "Interpretable Machine Learning Biosignature Detection from Ocean Worlds Analogue CO2 Isotopologue Data," <i>Earth and Space Science</i> Earth and Space
-Science, 12, e2024EA003966. <a href="https://doi.org/10.1029/2024EA003966">https://doi.org/10.1029/2024EA003966</a> <a href="https://doi.org/10.22541/essoar.172349174.43607808/v1">ESS Preprint Archive</a> <i>*Corresponding authors</i>  
+Science, 12, e2024EA003966. <a href="https://doi.org/10.1029/2024EA003966">https://doi.org/10.1029/2024EA003966</a> <i>*Corresponding authors</i>  
 <p></p>
 Yijie (Jamie) Li, Rayus Kuplicki, Bart N. Ford, Elizabeth Kresock, Leandra Figueroa-Hall, Jonathan Savitz, B. A. McKinney. "Gene Age Gap Estimate (GAGE) for major depressive disorder: a penalized biological age model using gene expression," <i>Neurobiology of Aging</i> (2025) Accepted 
   <a href="https://www.biorxiv.org/content/10.1101/2024.09.03.610913v2">preprint</a>  
