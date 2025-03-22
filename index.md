@@ -20,9 +20,11 @@ Bryan A. Dawkins and B. A. McKinney. "Multivariate optimization of k for k-neare
 <p></p>
 Maria Isabelle Fite and B. A. McKinnney, "Bose-Einstein Condensate Vortices with Hypercylindrical Symmetry using Zeroth-order Dimensional Perturbation Theory," (2024) Under Review. <a href="https://arxiv.org/abs/2411.18355">https://arxiv.org/abs/2411.18355</a>  
 <p></p>
-Elizabeth Kresock, Bryan Dawkins, Henry Luttbeg, Jamie Li, Rayus Kuplicki, B. A. McKinney. "Centrality nearest-neighbor projected-distance regression (C-NPDR) feature selection for correlation-based predictors with application to resting-state fMRI of major depressive disorder," (2025) PLoS ONE 20(2): e0319346. <a href="https://doi.org/10.1371/journal.pone.0319346">https://doi.org/10.1371/journal.pone.0319346</a>
+Elizabeth Kresock, Bryan Dawkins, Henry Luttbeg, Jamie Li, Rayus Kuplicki, B. A. McKinney. "Centrality nearest-neighbor projected-distance regression (C-NPDR) feature selection for correlation-based predictors with application to resting-state fMRI of major depressive disorder," (2025) <i></i>PLoS ONE</i> 20(2): e0319346. <a href="https://doi.org/10.1371/journal.pone.0319346">https://doi.org/10.1371/journal.pone.0319346</a>
 <p></p>
 Selim Karaoglu, Muhammad Imran, and B. A. McKinney, “Network-based SEITR epidemiological model,” (2024) Under Review.   
+<p></p>
+Yijie (Jamie) Li, Jun Zhang, B. A McKinney, Soroor Karimi, Siamack A. Shiraz. "Enhancing erosion rate prediction through NPDR-based feature selection and machine learning," (2025) <i>Proceedings of the ASME 2025 Fluids Engineering Division Summer Meeting</i> Accepted. 
 <p></p>
 Muhammad Imran; Brett Allen McKinney; Azhar Iqbal Kashif Butt; Pasquale Palumbo; Saira Batool; Hassan Aftab, "Optimal control strategies for dengue and malaria co-infection disease model," <i>MDPI Mathematics</i> 2025, 13(1), 43; <a href="https://doi.org/10.3390/math13010043">https://doi.org/10.3390/math13010043</a>.  
 <p></p>
