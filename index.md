@@ -16,7 +16,7 @@ Science, 12, e2024EA003966. <a href="https://doi.org/10.1029/2024EA003966">https
 Yijie (Jamie) Li, Rayus Kuplicki, Bart N. Ford, Elizabeth Kresock, Leandra Figueroa-Hall, Jonathan Savitz, B. A. McKinney. "Gene Age Gap Estimate (GAGE) for major depressive disorder: a penalized biological age model using gene expression," <i>Neurobiology of Aging</i> (2025) Accepted 
   <a href="https://www.biorxiv.org/content/10.1101/2024.09.03.610913v2">preprint</a>  
 <p></p>
-Bryan A. Dawkins and B. A. McKinney. "Multivariate optimization of k for k-nearest-neighbor feature selection with dichotomous outcomes: complex associations, class imbalance, and application to RNA-Seq in Major Depressive Disorder," <i>IEEE/ACM Transactions on Computational Biology and Bioinformatics</i> Accepted (2024). <a href="https://www.biorxiv.org/content/10.1101/2022.05.19.492724v1">preprint version</a>.  
+Bryan A. Dawkins and B. A. McKinney. "Multivariate optimization of k for k-nearest-neighbor feature selection with dichotomous outcomes: complex associations, class imbalance, and application to RNA-Seq in Major Depressive Disorder," <i>IEEE/ACM Transactions on Computational Biology and Bioinformatics</i> Jan-Feb 2025, pp. 39-51, vol. 22 DOI Bookmark: <a href="https://doi.ieeecomputersociety.org/10.1109/TCBBIO.2024.3494599">10.1109/TCBBIO.2024.3494599</a>.  
 <p></p>
 Maria Isabelle Fite and B. A. McKinnney, "Bose-Einstein Condensate Vortices with Hypercylindrical Symmetry using Zeroth-order Dimensional Perturbation Theory," (2024) Under Review. <a href="https://arxiv.org/abs/2411.18355">https://arxiv.org/abs/2411.18355</a>  
 <p></p>
