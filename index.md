@@ -26,7 +26,7 @@ Selim Karaoglu, Muhammad Imran, and B. A. McKinney, “Network-based SEITR epide
 <p></p>
 Yijie (Jamie) Li, Jun Zhang, B. A McKinney, Soroor Karimi, Siamack A. Shiraz. "Enhancing erosion rate prediction through NPDR-based feature selection and machine learning," (2025) <i>Proceedings of the ASME 2025 Fluids Engineering Division Summer Meeting</i> Accepted. 
 <p></p>
-Muhammad Imran; Brett Allen McKinney; Azhar Iqbal Kashif Butt; Pasquale Palumbo; Saira Batool; Hassan Aftab, "Optimal control strategies for dengue and malaria co-infection disease model," <i>MDPI Mathematics</i> 2025, 13(1), 43; <a href="https://doi.org/10.3390/math13010043">https://doi.org/10.3390/math13010043</a>.  
+Muhammad Imran; B. A. McKinney; Azhar Iqbal Kashif Butt; Pasquale Palumbo; Saira Batool; Hassan Aftab, "Optimal control strategies for dengue and malaria co-infection disease model," <i>MDPI Mathematics</i> 2025, 13(1), 43; <a href="https://doi.org/10.3390/math13010043">https://doi.org/10.3390/math13010043</a>.  
 <p></p>
 Abim Sedhain, Sruti Ragavan, Brett McKinney, Shahnewaz Leon, Sandeep Kaur Kuttal, "Predicting Information Foraging on Q&A Websites," (2024) Accepted <i>HCII</i>.  
 
