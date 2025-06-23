@@ -31,7 +31,10 @@ Imran, M., Butt, A. I. K., McKinney, B. A., Nuwairan, M. A., Al Mukahal, F. H. H
 <p></p>
 Muhammad Imran; B. A. McKinney; Azhar Iqbal Kashif Butt; Pasquale Palumbo; Saira Batool; Hassan Aftab, "Optimal control strategies for dengue and malaria co-infection disease model," <i>MDPI Mathematics</i> 2025, 13(1), 43; <a href="https://doi.org/10.3390/math13010043">https://doi.org/10.3390/math13010043</a>.  
 <p></p>
-Abim Sedhain, Sruti Ragavan, Brett McKinney, Shahnewaz Leon, Sandeep Kaur Kuttal, "Predicting Information Foraging on Q&A Websites," (2024) Accepted <i>HCII</i>.  
+Abim Sedhain, Sruti Ragavan, Brett McKinney, Shahnewaz Leon, Sandeep Kaur Kuttal, "Predicting Information Foraging on Q&A Websites," (2024) Accepted <i>HCII</i>, (22) 2025: 322-342.
+<p></p>
+Abim Sedhain, Sruti Srinivasa Ragavan, Brett McKinney, Shahnewaz Leon, Sandeep Kuttal, "Unveiling Value-Cost Dynamics in StackOverflow with IFT-Enhanced Clustering,"
+(2025) <i>HCI International</i> To Appear. 
 
 <h2>2024</h2>
 
