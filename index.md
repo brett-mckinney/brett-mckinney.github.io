@@ -12,8 +12,7 @@ Research Areas: Theoretical Physics, Machine Learning, Bioinformatics
 
 Lily A. Clough, Jonathan D. Major, Lauren M. Seyler, Victoria Da Poian, Bethany P. Theiling, Brett A. McKinney (2025). "Local-NPDR: A Novel Variable Importance Method for Explainable Machine Learning and False Discovery Diagnosis for Ocean Worlds Biosignatures," <i>Under Review</i>.
 <p></p>
-Lily A. Clough, Victoria Da Poian, Jonathan D. Major, Lauren M. Seyler, *Brett A. McKinney, *Bethany P. Theiling (2025). "Interpretable Machine Learning Biosignature Detection from Ocean Worlds Analogue CO2 Isotopologue Data," <i>Earth and Space Science</i> Earth and Space
-Science, 12, e2024EA003966. <a href="https://doi.org/10.1029/2024EA003966">https://doi.org/10.1029/2024EA003966</a> <i>*Corresponding authors</i>  
+Lily A. Clough, Victoria Da Poian, Jonathan D. Major, Lauren M. Seyler, *Brett A. McKinney, *Bethany P. Theiling (2025). "Interpretable Machine Learning Biosignature Detection from Ocean Worlds Analogue CO2 Isotopologue Data," <i>Earth and Space Science</i>, 12, e2024EA003966. <a href="https://doi.org/10.1029/2024EA003966">https://doi.org/10.1029/2024EA003966</a> <i>*Corresponding authors</i>  
 <p></p>
 Yijie (Jamie) Li, Rayus Kuplicki, Bart N. Ford, Elizabeth Kresock, Leandra Figueroa-Hall, Jonathan Savitz, B. A. McKinney. "Gene Age Gap Estimate (GAGE) for major depressive disorder: a penalized biological age model using gene expression," <i>Neurobiology of Aging</i> 151 (2025) 13–21<a href="https://www.sciencedirect.com/science/article/abs/pii/S0197458025000600"> online</a> <a href="./pdfs/Jamie_Li_Gene_Age_Gap_Estimate_MDD.pdf">pdf</a>
 <p></p>
