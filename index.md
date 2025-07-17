@@ -18,7 +18,7 @@ Yijie (Jamie) Li, Rayus Kuplicki, Bart N. Ford, Elizabeth Kresock, Leandra Figue
 <p></p>
 Bryan A. Dawkins and B. A. McKinney. "Multivariate optimization of k for k-nearest-neighbor feature selection with dichotomous outcomes: complex associations, class imbalance, and application to RNA-Seq in Major Depressive Disorder," <i>IEEE/ACM Transactions on Computational Biology and Bioinformatics</i> vol. 22, no. 01, pp. 39-51, Jan-Feb 2025. DOI Bookmark: <a href="https://doi.ieeecomputersociety.org/10.1109/TCBBIO.2024.3494599">10.1109/TCBBIO.2024.3494599</a>.  
 <p></p>
-Maria Isabelle Fite and B. A. McKinnney, "Bose-Einstein Condensate Vortices with Hypercylindrical Symmetry using Zeroth-order Dimensional Perturbation Theory," (2025) Under Review. <a href="https://arxiv.org/abs/2411.18355">https://arxiv.org/abs/2411.18355</a>  
+Maria Isabelle Fite and B. A. McKinnney, "Vortices in D-dimensional anisotropic Bose-Einstein condensates: dimensional perturbation theory with hypercylindrical symmetry," (2025) Under Review. <a href="https://arxiv.org/abs/2411.18355">https://arxiv.org/abs/2411.18355</a>  
 <p></p>
 Elizabeth Kresock, Bryan Dawkins, Henry Luttbeg, Jamie Li, Rayus Kuplicki, B. A. McKinney. "Centrality nearest-neighbor projected-distance regression (C-NPDR) feature selection for correlation-based predictors with application to resting-state fMRI of major depressive disorder," (2025) <i>PLoS ONE</i> 20(2): e0319346. <a href="https://doi.org/10.1371/journal.pone.0319346">https://doi.org/10.1371/journal.pone.0319346</a>
 <p></p>
