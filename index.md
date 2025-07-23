@@ -220,7 +220,7 @@ B.A. McKinney, J.E. Crowe, H.U. Voss, P.S. Crooke, N.L. Barney, and J.H. Moore, 
 <p></p>
 B.A. McKinney, D.M. Reif, M.T. Rock, K. M. Edwards, S. F. Kingsmore, J.H. Moore, and J.E. Crowe, "Cytokine expression patterns associated with systemic adverse events following smallpox immunization," <i>Journal of Infectious Diseases</i>. 194(4): 36092; 2006. (<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&amp;pubmedid=16845627">free pubmed central</a>)  
 <p></p>
-B.A. McKinney, D.M. Reif, M.D. Ritchie and J.H. Moore, "Machine learning for detecting gene-gene interactions," <i>Applied Bioinformatics</i>, 5(2):77-88; 2006. (<a href="http://insilico.utulsa.edu/pubs/McKinney-GxG-machine-learning-Applied-Bioinformatics-FINAL.pdf">pdf</a>) (<a href="http://www.pubmedcentral.gov/articlerender.fcgi?artid=3244050">free pubmed central</a>)  
+B.A. McKinney, D.M. Reif, M.D. Ritchie and J.H. Moore, "Machine learning for detecting gene-gene interactions," <i>Applied Bioinformatics</i>, 5(2):77-88; 2006. (<a href="http://insilico.utulsa.edu/pubs/McKinney-GxG-machine-learning-Applied-Bioinformatics-FINAL.pdf">pdf</a>) (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3244050/">free pubmed central</a>)  
 <p></p>
 D. M. Reif, A. A. Motsinger, B.A. McKinney, and J. H. Moore, "Feature selection using a random forest classifier for the integrated analysis of multiple data types," <i>Proceedings of the IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology</i>. pp. 171-178; 2006. (<a href="http://insilico.utulsa.edu/pubs/RF-CombinedSims_IEEE-CIBCB-2006_paper1117.pdf">pdf</a>)  
 <p></p>
