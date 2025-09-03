@@ -13,13 +13,13 @@ Research Areas: Theoretical Physics, Machine Learning, Bioinformatics
 Lily A. Clough, Jonathan D. Major, Lauren M. Seyler, Victoria Da Poian, Bethany P. Theiling, Brett A. McKinney (2025). "Local-NPDR: A Novel Variable Importance Method for Explainable Machine Learning and False Discovery Diagnosis for Ocean Worlds Biosignatures," <i>Frontiers in Astronomy and Space Sciences-
 Astrobiology</i> Accepted.
 <p></p>
+Maria Isabelle Fite and B. A. McKinnney, "Vortices in D-dimensional anisotropic Bose-Einstein condensates: dimensional perturbation theory with hypercylindrical symmetry," (2025) <i>Physical Review A</i> <a href="https://doi.org/10.1103/yg7l-ggnf">Accepted</a> <a href="https://arxiv.org/abs/2411.18355">Preprint</a>  
+<p></p>
 Lily A. Clough, Victoria Da Poian, Jonathan D. Major, Lauren M. Seyler, *Brett A. McKinney, *Bethany P. Theiling (2025). "Interpretable Machine Learning Biosignature Detection from Ocean Worlds Analogue CO2 Isotopologue Data," <i>Earth and Space Science</i>, 12, e2024EA003966. <a href="https://doi.org/10.1029/2024EA003966">https://doi.org/10.1029/2024EA003966</a> <i>*Corresponding authors</i>  
 <p></p>
 Yijie (Jamie) Li, Rayus Kuplicki, Bart N. Ford, Elizabeth Kresock, Leandra Figueroa-Hall, Jonathan Savitz, B. A. McKinney. "Gene Age Gap Estimate (GAGE) for major depressive disorder: a penalized biological age model using gene expression," <i>Neurobiology of Aging</i> 151 (2025) 13–21<a href="https://www.sciencedirect.com/science/article/abs/pii/S0197458025000600"> online</a> <a href="./pdfs/Jamie_Li_Gene_Age_Gap_Estimate_MDD.pdf">pdf</a>
 <p></p>
 Bryan A. Dawkins and B. A. McKinney. "Multivariate optimization of k for k-nearest-neighbor feature selection with dichotomous outcomes: complex associations, class imbalance, and application to RNA-Seq in Major Depressive Disorder," <i>IEEE/ACM Transactions on Computational Biology and Bioinformatics</i> vol. 22, no. 01, pp. 39-51, Jan-Feb 2025. DOI Bookmark: <a href="https://doi.ieeecomputersociety.org/10.1109/TCBBIO.2024.3494599">10.1109/TCBBIO.2024.3494599</a>.  
-<p></p>
-Maria Isabelle Fite and B. A. McKinnney, "Vortices in D-dimensional anisotropic Bose-Einstein condensates: dimensional perturbation theory with hypercylindrical symmetry," (2025) <i>Physical Review A</i> <a href="https://doi.org/10.1103/yg7l-ggnf">Accepted</a> <a href="https://arxiv.org/abs/2411.18355">Preprint</a>  
 <p></p>
 Elizabeth Kresock, Bryan Dawkins, Henry Luttbeg, Jamie Li, Rayus Kuplicki, B. A. McKinney. "Centrality nearest-neighbor projected-distance regression (C-NPDR) feature selection for correlation-based predictors with application to resting-state fMRI of major depressive disorder," (2025) <i>PLoS ONE</i> 20(2): e0319346. <a href="https://doi.org/10.1371/journal.pone.0319346">https://doi.org/10.1371/journal.pone.0319346</a>
 <p></p>
@@ -31,7 +31,7 @@ Imran, M., Butt, A. I. K., McKinney, B. A., Nuwairan, M. A., Al Mukahal, F. H. H
 <p></p>
 Muhammad Imran; B. A. McKinney; Azhar Iqbal Kashif Butt; Pasquale Palumbo; Saira Batool; Hassan Aftab, "Optimal control strategies for dengue and malaria co-infection disease model," <i>MDPI Mathematics</i> 2025, 13(1), 43; <a href="https://doi.org/10.3390/math13010043">https://doi.org/10.3390/math13010043</a>.  
 <p></p>
-Abim Sedhain, Sruti Ragavan, Brett McKinney, Shahnewaz Leon, Sandeep Kaur Kuttal, "Predicting Information Foraging on Q&A Websites," (2024) Accepted <i>HCII</i>, (22) 2025: 322-342.
+Abim Sedhain, Sruti Ragavan, Brett McKinney, Shahnewaz Leon, Sandeep Kaur Kuttal, "Predicting Information Foraging on Q&A Websites," <i>HCII</i>, (22) 2025: 322-342.
 <p></p>
 Abim Sedhain, Sruti Srinivasa Ragavan, Brett McKinney, Shahnewaz Leon, Sandeep Kuttal, "Unveiling Value-Cost Dynamics in StackOverflow with IFT-Enhanced Clustering,"
 (2025) <i>HCI International</i> To Appear. 
