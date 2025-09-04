@@ -25,7 +25,7 @@ Elizabeth Kresock, Bryan Dawkins, Henry Luttbeg, Jamie Li, Rayus Kuplicki, B. A.
 <p></p>
 Selim Karaoglu, Muhammad Imran, and B.A. McKinney, "Network-based SEITR epidemiological model with contact heterogeneity: comparison with homogeneous models for random, scale-free and small-world networks." <i>Eur. Phys. J. Plus</i> 140, 551 (2025). <a href="https://doi.org/10.1140/epjp/s13360-025-06481-z">https://doi.org/10.1140/epjp/s13360-025-06481-z</a>
 <p></p>
-Yijie (Jamie) Li, Jun Zhang, B. A McKinney, Soroor Karimi, Siamack A. Shiraz. "Enhancing erosion rate prediction through NPDR-based feature selection and machine learning," (2025) <i>Proceedings of the ASME 2025 Fluids Engineering Division Summer Meeting</i> Accepted. 
+Yijie (Jamie) Li, Jun Zhang, B. A McKinney, Soroor Karimi, Siamack A. Shiraz. "Enhancing erosion rate prediction through NPDR-based feature selection and machine learning," (2025) <i>Proceedings of the ASME 2025 Fluids Engineering Division Summer Meeting</i> Volume 2: Computational Fluid Dynamics (CFDTC); Micro and Nano Fluid Dynamics (MNFDTC); Flow Visualization. Anaheim, California, USA. July 15–17, https://doi.org/10.1115/FEDSM2024-130309 
 <p></p>
 Imran, M., Butt, A. I. K., McKinney, B. A., Nuwairan, M. A., Al Mukahal, F. H. H., & Batool, S. (2025). A Comparative Analysis of Different Fractional Optimal Control Strategies to Eradicate Bayoud Disease in Date Palm Trees. <i>Fractal and Fractional</i>, 9(4), 260. <a href="https://doi.org/10.3390/fractalfract9040260">https://doi.org/10.3390/fractalfract9040260</a>
 <p></p>
