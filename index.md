@@ -39,7 +39,7 @@ Abim Sedhain, Sruti Srinivasa Ragavan, Brett McKinney, Shahnewaz Leon, Sandeep K
 (2025) <i>HCI International</i> To Appear. 
 <p></p>
 Evana Gizzi et al., "OnAIR: Applications of the NASA on‐board artificial intelligence research platform," September 2025 <i>AI Magazine</i>i> 46(3)
-DOI: 10.1002/aaai.70020 <a href="https://onlinelibrary.wiley.com/doi/10.1002/aaai.70020>https://onlinelibrary.wiley.com/doi/10.1002/aaai.70020</a>
+DOI: 10.1002/aaai.70020 <a href="https://onlinelibrary.wiley.com/doi/10.1002/aaai.70020">https://onlinelibrary.wiley.com/doi/10.1002/aaai.70020</a>
 
 <h2>2024</h2>
 
