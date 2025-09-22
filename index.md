@@ -38,7 +38,7 @@ Abim Sedhain, Sruti Ragavan, Brett McKinney, Shahnewaz Leon, Sandeep Kaur Kuttal
 Abim Sedhain, Sruti Srinivasa Ragavan, Brett McKinney, Shahnewaz Leon, Sandeep Kuttal, "Unveiling Value-Cost Dynamics in StackOverflow with IFT-Enhanced Clustering,"
 (2025) <i>HCI International</i> To Appear. 
 <p></p>
-Evana Gizzi et al., "OnAIR: Applications of the NASA on‐board artificial intelligence research platform," September 2025 <i>AI Magazine</i>i> 46(3)
+Evana Gizzi et al., "OnAIR: Applications of the NASA on‐board artificial intelligence research platform," September 2025 <i>AI Magazine</i> 46(3)
 DOI: 10.1002/aaai.70020 <a href="https://onlinelibrary.wiley.com/doi/10.1002/aaai.70020">https://onlinelibrary.wiley.com/doi/10.1002/aaai.70020</a>
 
 <h2>2024</h2>
