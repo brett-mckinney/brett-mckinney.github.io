@@ -13,7 +13,7 @@ Research Areas: Theoretical Physics, Machine Learning, Bioinformatics
 Lily A. Clough, Jonathan D. Major, Lauren M. Seyler, Victoria Da Poian, Bethany P. Theiling, Brett A. McKinney (2025). "Local-NPDR: A Novel Variable Importance Method for Explainable Machine Learning and False Discovery Diagnosis for Ocean Worlds Biosignatures," <i>Frontiers in Astronomy and Space Sciences-
 Astrobiology</i> Accepted.
 <p></p>
-Maria Isabelle Fite and B. A. McKinnney, "Vortices in D-dimensional anisotropic Bose-Einstein condensates: dimensional perturbation theory with hypercylindrical symmetry," <i>Phys. Rev. A</i> 112, 033321 (2025) - Published 22 September, 2025 <a href="https://doi.org/10.1103/yg7l-ggnf">journal</a> <a href="./pdfs/hyper-cyl-vortices-pra-2025.pdf">pdf</a> <a href="https://arxiv.org/abs/2411.18355">Preprint</a>  
+Maria Isabelle Fite and B. A. McKinnney, "Vortices in D-dimensional anisotropic Bose-Einstein condensates: dimensional perturbation theory with hypercylindrical symmetry," <i>Phys. Rev. A</i> 112, 033321 (2025) <a href="https://doi.org/10.1103/yg7l-ggnf">Published 22 September, 2025</a> (<a href="./pdfs/hyper-cyl-vortices-pra-2025.pdf">pdf</a>) <a href="https://arxiv.org/abs/2411.18355">arxiv</a>  
 <p></p>
 Lily A. Clough, Victoria Da Poian, Jonathan D. Major, Lauren M. Seyler, *Brett A. McKinney, *Bethany P. Theiling (2025). "Interpretable Machine Learning Biosignature Detection from Ocean Worlds Analogue CO2 Isotopologue Data," <i>Earth and Space Science</i>, 12, e2024EA003966. <a href="https://doi.org/10.1029/2024EA003966">https://doi.org/10.1029/2024EA003966</a> <i>*Corresponding authors</i>  
 <p></p>
