@@ -11,7 +11,7 @@ Research Areas: Theoretical Physics, Machine Learning, Bioinformatics
 <h2>2025</h2>
 
 Lily A. Clough, Jonathan D. Major, Lauren M. Seyler, Victoria Da Poian, Bethany P. Theiling, Brett A. McKinney (2025). "Local-NPDR: A Novel Variable Importance Method for Explainable Machine Learning and False Discovery Diagnosis for Ocean Worlds Biosignatures," <i>Frontiers in Astronomy and Space Sciences-
-Astrobiology</i> Accepted.
+Astrobiology</i>, 23 September 2025 Sec. Astrobiology Volume 12 - 2025 | <a href="https://doi.org/10.3389/fspas.2025.1651953">https://doi.org/10.3389/fspas.2025.1651953</a>.
 <p></p>
 Maria Isabelle Fite and B. A. McKinney, "Vortices in D-dimensional anisotropic Bose-Einstein condensates: Dimensional perturbation theory with hypercylindrical symmetry," <i>Phys. Rev. A</i> 112, 033321 (2025) <a href="https://doi.org/10.1103/yg7l-ggnf">Published 22 September, 2025</a> (<a href="./pdfs/hyper-cyl-vortices-pra-2025.pdf">pdf</a>) (<a href="https://arxiv.org/abs/2411.18355">arxiv</a>)  
 <p></p>
