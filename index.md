@@ -23,7 +23,7 @@ Bryan A. Dawkins and B. A. McKinney. "Multivariate optimization of k for k-neare
 <p></p>
 Elizabeth Kresock, Bryan Dawkins, Henry Luttbeg, Jamie Li, Rayus Kuplicki, B. A. McKinney. "Centrality nearest-neighbor projected-distance regression (C-NPDR) feature selection for correlation-based predictors with application to resting-state fMRI of major depressive disorder," (2025) <i>PLoS ONE</i> 20(2): e0319346. <a href="https://doi.org/10.1371/journal.pone.0319346">https://doi.org/10.1371/journal.pone.0319346</a>
 <p></p>
-Selim Karaoglu, Muhammad Imran, and B.A. McKinney, "Network-based SEITR epidemiological model with contact heterogeneity: comparison with homogeneous models for random, scale-free and small-world networks." <i>Eur. Phys. J. Plus</i> 140, 551 (2025). <a href="https://doi.org/10.1140/epjp/s13360-025-06481-z">https://doi.org/10.1140/epjp/s13360-025-06481-z</a>
+Selim Karaoglu, Muhammad Imran, and B.A. McKinney, "Network-based SEITR epidemiological model with contact heterogeneity: comparison with homogeneous models for random, scale-free and small-world networks." <i>Eur. Phys. J. Plus</i> 140, 551 (2025). <a href="https://doi.org/10.1140/epjp/s13360-025-06481-z">https://doi.org/10.1140/epjp/s13360-025-06481-z</a> (<a href="./pdfs/SEITR_Network.pdf">pdf</a>) 
 <p></p>
 Yijie (Jamie) Li, Jun Zhang, B. A McKinney, Soroor Karimi, Siamack A. Shiraz. "Linear Versus Non-Linear Machine Learning Feature Selection for Erosion Rate Prediction"  (2025) <i>Proceedings of the ASME 2025 Fluids Engineering Division Summer Meeting</i> Volume 2: Computational Fluid Dynamics (CFDTC); Micro and Nano Fluid Dynamics (MNFDTC); Flow Visualization. Anaheim, California, USA. July 15–17, https://doi.org/10.1115/FEDSM2024-130309 
 <p></p>
