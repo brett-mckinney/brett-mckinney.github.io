@@ -58,7 +58,7 @@ Vu Nguyen, Minh Phan, Tiantian Wang, Salih Tutun, B.A. McKinney, Bahareh Rahmani
 <p></p>
 
 <h2>2023</h2>
-Lanie G. McKinney and B. A. McKinney. "Conditions for Bound States of the Pseudopotential with Harmonic Confinement in Arbitrary Dimensions," <i>Physica Scripta</i> (2023) <b>98</b> 015404 <a href="https://iopscience.iop.org/article/10.1088/1402-4896/aca6b6">https://iopscience.iop.org/article/10.1088/1402-4896/aca6b6</a>.  
+Lanie G. McKinney and B. A. McKinney. "Conditions for Bound States of the Pseudopotential with Harmonic Confinement in Arbitrary Dimensions," <i>Physica Scripta</i> (2023) <b>98</b> 015404 <a href="https://iopscience.iop.org/article/10.1088/1402-4896/aca6b6">https://iopscience.iop.org/article/10.1088/1402-4896/aca6b6</a>.  <a href="./pdfs/Lanie_2023_Phys._Scr._98_015404.pdf">pdf</a>
 <p></p>
 Victoria Da Poian, Bethany Theiling, Lily Clough, Brett McKinney, Jonathan Major, Jingyi Chen and Sarah Hörst. "Exploratory Data Analysis (EDA) Machine Learning Approaches for Ocean World Analog Mass Spectrometry," <i>Frontiers in Astronomy Space Science - Planetary Science</i> Volume 10 (2023) <a href="https://doi.org/10.3389/fspas.2023.1134141">https://doi.org/10.3389/fspas.2023.1134141</a>.  
 <p></p>
