@@ -9,7 +9,7 @@ Research Areas: Theoretical Physics, Machine Learning, Bioinformatics
 
 <h1>Publications</h1>  <a href="https://scholar.google.com/citations?user=3M1gxVsAAAAJ&amp;hl=en">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="orcid.org/0000-0002-9494-8833">orcid.org/0000-0002-9494-8833</a>
 <h2>2026</h2>
-Patrick Kampmeyr, Bryan A. Dawkins, B. A. McKinney, "Survival NPDR: Nearest-Neighbor Projected Distance Regression for Biomarker Discovery in Gene-Expression Survival Data," <i>Under Review</i>.
+Patrick Kampmeyer, Bryan A. Dawkins, B. A. McKinney, "Survival NPDR: Nearest-Neighbor Projected Distance Regression for Biomarker Discovery in Gene-Expression Survival Data," <i>Under Review</i>.
 
 <h2>2025</h2>
 
