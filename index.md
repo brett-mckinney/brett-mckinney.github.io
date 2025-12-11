@@ -1,5 +1,5 @@
 ## Brett McKinney, PhD Theoretical Physics
-Professor of Computer Science and Mathematics
+Professor of Computer Science and Physics
 <p>
 <a href="https://github.com/insilico">https://github.com/insilico</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://sites.utulsa.edu/insilico/">sites.utulsa.edu/insilico/</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
