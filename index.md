@@ -9,7 +9,7 @@ Research Areas: Theoretical Physics, Machine Learning, Bioinformatics, Astrobiol
 
 <h1>Publications</h1>  <a href="https://scholar.google.com/citations?user=3M1gxVsAAAAJ&amp;hl=en">Google Scholar</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="orcid.org/0000-0002-9494-8833">orcid.org/0000-0002-9494-8833</a>
 <h2>2026</h2>
-Saira Batool, Muhammad Imran, B.A. McKinney, "Optimal Resource Allocation in a Bacterial Growth Model Under Cold Stress and Temperature," (2026) <i>CMES-Computer Modeling in Engineering & Sciences</i>, Accepted. 
+Saira Batool, Muhammad Imran, B.A. McKinney (2026). "Optimal Resource Allocation in a Bacterial Growth Model Under Cold Stress and Temperature." <i>Computer Modeling in Engineering & Sciences</i>, 146(3), 30. <a href="https://doi.org/10.32604/cmes.2026.079067">https://doi.org/10.32604/cmes.2026.079067</a>
 <p></p>
 Patrick Kampmeyer, Bryan A. Dawkins, B. A. McKinney, "Survival NPDR: Nearest-Neighbor Projected Distance Regression for Biomarker Discovery in Gene-Expression Survival Data," <i>Under Review</i>.
 
