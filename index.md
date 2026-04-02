@@ -11,6 +11,8 @@ Research Areas: Theoretical Physics, Machine Learning, Bioinformatics, Astrobiol
 <h2>2026</h2>
 Saira Batool, Muhammad Imran, B.A. McKinney (2026). "Optimal Resource Allocation in a Bacterial Growth Model Under Cold Stress and Temperature." <i>Computer Modeling in Engineering & Sciences</i>, 146(3), 30. <a href="https://doi.org/10.32604/cmes.2026.079067">https://doi.org/10.32604/cmes.2026.079067</a>
 <p></p>
+Selim Karaoglu; Muhammad Imran; B. A. McKinney, "Network-Aware Optimal Control of SEITR Epidemic Models: Limits of Mean-Field Strategies and the Role of Temporal Resolution," <i>Under Review</i>.
+<p></p>
 Patrick Kampmeyer, Bryan A. Dawkins, B. A. McKinney, "Survival NPDR: Nearest-Neighbor Projected Distance Regression for Biomarker Discovery in Gene-Expression Survival Data," <i>Under Review</i>.
 
 <h2>2025</h2>
