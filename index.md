@@ -13,6 +13,10 @@ Saira Batool, Muhammad Imran, B.A. McKinney (2026). "Optimal Resource Allocation
 <p></p>
 Selim Karaoglu; Muhammad Imran; B. A. McKinney, "Network-Aware Optimal Control of SEITR Epidemic Models: Limits of Mean-Field Strategies and the Role of Temporal Resolution," <i>Under Review</i>.
 <p></p>
+Muhammad Imran, Saira Batool, Brett McKinney, Azhar Iqbal Kashif Butt, "Bifurcation, Stability, and Control Analysis of an Integer and
+Fractional SEIVAP Within-Host Model for COVID-19," <i>Under Review</i>.
+Infection
+<p></p>
 Patrick Kampmeyer, Bryan A. Dawkins, B. A. McKinney, "Survival NPDR: Nearest-Neighbor Projected Distance Regression for Biomarker Discovery in Gene-Expression Survival Data," <i>Under Review</i>.
 
 <h2>2025</h2>
