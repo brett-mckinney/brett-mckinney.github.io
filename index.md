@@ -17,6 +17,9 @@ Fractional SEIVAP Within-Host Model for COVID-19 Infection," <i>Alexandria Engin
 Selim Karaoglu; Muhammad Imran; B. A. McKinney, "Network-Aware Optimal Control of SEITR Epidemic Models: Limits of Mean-Field Strategies and the Role of Temporal Resolution," <i>Under Review</i>.
 <p></p>
 Patrick Kampmeyer, Bryan A. Dawkins, B. A. McKinney, "Survival NPDR: Nearest-Neighbor Projected Distance Regression for Biomarker Discovery in Gene-Expression Survival Data," <i>Under Review</i>.
+<p></p>
+Muhammad Imran, Brett McKinney, Saira Batool, Azhar Iqbal Kashif Butt, "Bifurcation analysis for a COVID-19 cell model with passive antibody treatment control strategy," <i>Alexandria Engineering Journal</i>, Volume 145, 2026, Pages 326-343,
+<a href="https://doi.org/10.1016/j.aej.2026.04.048>https://doi.org/10.1016/j.aej.2026.04.048</a>.
 <h2>2025</h2>
 
 Lily A. Clough, Jonathan D. Major, Lauren M. Seyler, Victoria Da Poian, Bethany P. Theiling, Brett A. McKinney (2025). "Local-NPDR: A Novel Variable Importance Method for Explainable Machine Learning and False Discovery Diagnosis for Ocean Worlds Biosignatures," <i>Frontiers in Astronomy and Space Sciences-
