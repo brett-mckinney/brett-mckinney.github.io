@@ -20,6 +20,8 @@ Patrick Kampmeyer, Bryan A. Dawkins, B. A. McKinney, "Survival NPDR: Nearest-Nei
 <p></p>
 Muhammad Imran, Brett McKinney, Saira Batool, Azhar Iqbal Kashif Butt, "Bifurcation analysis for a COVID-19 cell model with passive antibody treatment control strategy," <i>Alexandria Engineering Journal</i>, Volume 145, 2026, Pages 326-343,
 <a href="https://doi.org/10.1016/j.aej.2026.04.048">https://doi.org/10.1016/j.aej.2026.04.048</a>.
+<p></p>
+Hamideh Khaleghpour, B.A. McKinney. "Leakage-Safe Graph Features for Interpretable Fraud Detection in Temporal Transaction Networks," <i>Submitted</i>. 
 
   <h2>2025</h2>
 
