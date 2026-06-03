@@ -16,7 +16,9 @@ Fractional SEIVAP Within-Host Model for COVID-19 Infection," <i>Alexandria Engin
 <p></p>
 Selim Karaoglu; Muhammad Imran; B. A. McKinney, "Two Biases in Network-Based Optimal Control of an SEITR Epidemic: Separating Optimizer Optimism from the Mean-Field Gap," <i>Submitted</i>.
 <p></p>
-Patrick Kampmeyer, Bryan A. Dawkins, B. A. McKinney, "Survival NPDR: Nearest-Neighbor Projected Distance Regression for Biomarker Discovery in Gene-Expression Survival Data," <i>Under Review</i>.
+Selim Karaoglu; Muhammad Imran; B. A. McKinney, "Optimal Control of SEITR Epidemics on Complex Networks: Mean Degree Governs Policy Effectiveness Across Topologies," <i>Submitted</i>.
+<p></p>
+Patrick Kampmeyer, Bryan A. Dawkins, B. A. McKinney, "Survival NPDR: Nearest-Neighbor Projected Distance Regression for Biomarker Discovery in Gene-Expression Survival Data," <i>Submitted</i>.
 <p></p>
 Muhammad Imran, Brett McKinney, Saira Batool, Azhar Iqbal Kashif Butt, "Bifurcation analysis for a COVID-19 cell model with passive antibody treatment control strategy," <i>Alexandria Engineering Journal</i>, Volume 145, 2026, Pages 326-343,
 <a href="https://doi.org/10.1016/j.aej.2026.04.048">https://doi.org/10.1016/j.aej.2026.04.048</a>.
@@ -24,6 +26,7 @@ Muhammad Imran, Brett McKinney, Saira Batool, Azhar Iqbal Kashif Butt, "Bifurcat
 Hamideh Khaleghpour, B.A. McKinney, "Leakage-Safe Graph Features for Interpretable Fraud Detection in Temporal Transaction Networks," <i>Submitted</i>. 
 <p></p>
 Setareh Akbari, Jamie Li, B.A. McKinney, "Balancing Utility and Privacy: Evaluating Synthetic Gene Expression Data with a Novel Dilution Metric for Feature Stability," <i>Submitted</i>. 
+ 
   <h2>2025</h2>
 
 Lily A. Clough, Jonathan D. Major, Lauren M. Seyler, Victoria Da Poian, Bethany P. Theiling, Brett A. McKinney (2025). "Local-NPDR: A Novel Variable Importance Method for Explainable Machine Learning and False Discovery Diagnosis for Ocean Worlds Biosignatures," <i>Frontiers in Astronomy and Space Sciences-
