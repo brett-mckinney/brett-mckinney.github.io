@@ -11,6 +11,8 @@ Research Areas: Theoretical Physics, Machine Learning, Bioinformatics, Astrobiol
 <h2>2026</h2>
 Saira Batool, Muhammad Imran, B.A. McKinney (2026). "Optimal Resource Allocation in a Bacterial Growth Model Under Cold Stress and Temperature." <i>Computer Modeling in Engineering & Sciences</i>, 146(3), 30. <a href="https://doi.org/10.32604/cmes.2026.079067">https://doi.org/10.32604/cmes.2026.079067</a>
 <p></p>
+Lily A. Clough and B. A. McKinney (2026), "Dimensional classification of quantum bound states: even-dimensional logarithmic structure and odd-dimensional sign alternation," <i>Submitted</i>.
+<p></p>
 Muhammad Imran, Saira Batool, Brett McKinney, Azhar Iqbal Kashif Butt, "Bifurcation, Stability, and Control Analysis of an Integer and
 Fractional SEIVAP Within-Host Model for COVID-19 Infection," <i>Alexandria Engineering Journal,</i> Accepted.
 <p></p>
