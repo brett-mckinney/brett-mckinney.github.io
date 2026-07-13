@@ -13,6 +13,8 @@ Saira Batool, Muhammad Imran, B.A. McKinney (2026). "Optimal Resource Allocation
 <p></p>
 Lily A. Clough and B. A. McKinney (2026), "Dimensional classification of quantum bound states: even-dimensional logarithmic structure and odd-dimensional sign alternation," <i>Submitted</i>.
 <p></p>
+Selim Karaoglu, Masaya Misaki, B. A. McKinney (2026), "Spatial Heterogeneity of Stuart–Landau Bifurcation States Reveals Neurofeedback-Induced Dynamical Reorganization," <i>Submitted</i>.
+<p></p>
 Muhammad Imran, Brett McKinney, Saira Batool, Azhar Iqbal Kashif Butt, "Bifurcation analysis for a COVID-19 cell model with passive antibody treatment control strategy," <i>Alexandria Engineering Journal</i>, Volume 145, 2026, Pages 326-343,
 <a href="https://doi.org/10.1016/j.aej.2026.04.048">https://doi.org/10.1016/j.aej.2026.04.048</a>.
 <p></p>
