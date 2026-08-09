@@ -11,7 +11,7 @@ Research Areas: Theoretical Physics, Machine Learning, Bioinformatics, Astrobiol
 <h2>2026</h2>
 Saira Batool, Muhammad Imran, B.A. McKinney (2026). "Optimal Resource Allocation in a Bacterial Growth Model Under Cold Stress and Temperature." <i>Computer Modeling in Engineering & Sciences</i>, 146(3), 30. <a href="https://doi.org/10.32604/cmes.2026.079067">https://doi.org/10.32604/cmes.2026.079067</a>
 <p></p>
-Lily A. Clough and B. A. McKinney (2026), "Dimensional classification of quantum bound states: even-dimensional logarithmic structure and odd-dimensional sign alternation," <i>Submitted</i>.
+Lily A. Clough and B. A. McKinney (2026), "Dimensional hierarchy of pseudopotential bound states in arbitrary spatial dimensions," <i>Submitted</i>.
 <p></p>
 Selim Karaoglu, Masaya Misaki, B. A. McKinney (2026), "Spatial Heterogeneity of Stuart–Landau Bifurcation States Reveals Neurofeedback-Induced Dynamical Reorganization," <i>Submitted</i>.
 <p></p>
