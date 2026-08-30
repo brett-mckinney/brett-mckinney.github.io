@@ -13,6 +13,8 @@ Saira Batool, Muhammad Imran, B.A. McKinney (2026). "Optimal Resource Allocation
 <p></p>
 Lily A. Clough and B. A. McKinney (2026), "Dimensional hierarchy of pseudopotential bound states in arbitrary spatial dimensions," <i>Submitted</i>.
 <p></p>
+Saira Batool; Muhammad Imran; Brett McKinney (2026), "Optimal Chemotherapy Control and Dynamics of Tumor-Immune Interactions," <i>Accepted</i>. <i>MDPI Mathematics</i> 2026.
+<p></p>
 Selim Karaoglu, Masaya Misaki, B. A. McKinney (2026), "Spatial Heterogeneity of Stuart–Landau Bifurcation States Reveals Neurofeedback-Induced Dynamical Reorganization," <i>Submitted</i>.
 <p></p>
 Muhammad Imran, Brett McKinney, Saira Batool, Azhar Iqbal Kashif Butt, "Bifurcation analysis for a COVID-19 cell model with passive antibody treatment control strategy," <i>Alexandria Engineering Journal</i>, Volume 145, 2026, Pages 326-343,
@@ -24,8 +26,6 @@ Fractional SEIVAP Within-Host Model for COVID-19 Infection," <i>Alexandria Engin
 Selim Karaoglu, Muhammad Imran, B. A. McKinney (2026), "Two Biases in Network-Based Optimal Control of an SEITR Epidemic: Separating Optimizer Optimism from the Mean-Field Gap," <i>Submitted</i>.
 <p></p>
 Selim Karaoglu, Muhammad Imran, B. A. McKinney (2026), "Optimal Control of SEITR Epidemics on Complex Networks: Mean Degree Governs Policy Effectiveness Across Topologies," <i>Submitted</i>.
-<p></p>
-Saira Batool; Muhammad Imran; Brett McKinney (2026), "Optimal Chemotherapy Control and Dynamics of Tumor-Immune Interactions," <i>Submitted</i>.
 <p></p>
 Patrick Kampmeyer, Bryan A. Dawkins, Ryan J. Urbanowicz, Kia Kazemi-Nia, B. A. McKinney (2026), "Survival NPDR: Nearest-Neighbor Projected Distance Regression for Biomarker Discovery in Gene-Expression Survival Data," <i>Submitted</i>.
 <p></p>
