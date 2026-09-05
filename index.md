@@ -13,7 +13,7 @@ Saira Batool, Muhammad Imran, B.A. McKinney (2026). "Optimal Resource Allocation
 <p></p>
 Lily A. Clough and B. A. McKinney (2026), "Dimensional hierarchy of pseudopotential bound states in arbitrary spatial dimensions," <i>Submitted</i>.
 <p></p>
-Saira Batool; Muhammad Imran; Brett McKinney (2026), "Optimal Chemotherapy Control and Dynamics of Tumor-Immune Interactions," <i>Accepted</i>. <i>MDPI Mathematics</i> 2026.
+Saira Batool; Muhammad Imran; B. A. McKinney (2026). "Optimal Chemotherapy Control and Dynamics of Tumor–Immune Interactions." <i>MDPI Mathematics</i>i>, 14(17), 3169. <a href="https://doi.org/10.3390/math14173169">https://doi.org/10.3390/math14173169</a>
 <p></p>
 Selim Karaoglu, Masaya Misaki, B. A. McKinney (2026), "Spatial Heterogeneity of Stuart–Landau Bifurcation States Reveals Neurofeedback-Induced Dynamical Reorganization," <i>Submitted</i>.
 <p></p>
